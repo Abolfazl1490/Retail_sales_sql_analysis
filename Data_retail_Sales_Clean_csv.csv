@@ -1,0 +1,1001 @@
+﻿order_id,order_date,customer_id,customer_segment,city,product_category,product_name,quantity,unit_price,discount_pct,sales,profit,payment_method
+171,2025-01-01,C0022,Small Business,Karaj,Furniture,Standing Desk,1,291.08,0.05,276.53,38.53,Credit Card
+354,2025-01-01,C0206,Corporate,Tehran,Office Supplies,Desk Lamp,1,28.32,0.0,28.32,9.32,Credit Card
+413,2025-01-02,C0039,Consumer,Qom,Technology,Wireless Mouse,4,18.73,0.15,63.68,19.68,Credit Card
+289,2025-01-03,C0017,Small Business,Tabriz,Furniture,Bookshelf,1,101.23,0.1,91.11,14.11,Cash
+432,2025-01-03,C0131,Consumer,Ahvaz,Furniture,Office Chair,2,128.17,0.05,243.52,37.52,Cash
+799,2025-01-03,C0095,Consumer,Qom,Office Supplies,Desk Lamp,2,26.76,0.0,53.52,15.52,Credit Card
+822,2025-01-03,C0104,Small Business,Ahvaz,Office Supplies,Notebook Pack,1,8.02,0.1,7.22,2.22,Digital Wallet
+333,2025-01-04,C0003,Corporate,Tehran,Office Supplies,Notebook Pack,1,8.57,0.0,8.57,3.57,Digital Wallet
+391,2025-01-04,C0176,Consumer,Yazd,Furniture,Standing Desk,2,271.85,0.1,489.33,13.33,Credit Card
+934,2025-01-04,C0135,Corporate,Ahvaz,Technology,USB-C Hub,1,44.75,0.0,44.75,15.75,Digital Wallet
+312,2025-01-05,C0034,Corporate,Tabriz,Furniture,Standing Desk,4,278.88,0.2,892.42,-59.58,Cash
+922,2025-01-05,C0104,Small Business,Tehran,Office Supplies,Printer Paper,4,6.95,0.1,25.02,5.02,Digital Wallet
+361,2025-01-06,C0028,Small Business,Tehran,Office Supplies,Desk Organizer,1,15.46,0.0,15.46,4.46,Credit Card
+528,2025-01-06,C0121,Small Business,Tehran,Technology,Headphones,4,56.95,0.15,193.63,33.63,Digital Wallet
+442,2025-01-07,C0114,Consumer,Karaj,Furniture,Standing Desk,1,300.97,0.15,255.82,17.82,Cash
+601,2025-01-07,C0127,Consumer,Shiraz,Office Supplies,Pen Set,4,4.61,0.05,17.52,3.52,Digital Wallet
+735,2025-01-07,C0042,Consumer,Shiraz,Technology,Headphones,1,57.66,0.1,51.89,11.89,Cash
+320,2025-01-08,C0130,Corporate,Qom,Office Supplies,Desk Organizer,1,16.99,0.0,16.99,5.99,Digital Wallet
+678,2025-01-08,C0157,Consumer,Ahvaz,Technology,Wireless Mouse,4,16.88,0.15,57.39,13.39,Credit Card
+949,2025-01-08,C0169,Corporate,Ahvaz,Office Supplies,Printer Paper,1,6.72,0.0,6.72,1.72,Bank Transfer
+74,2025-01-09,C0149,Corporate,Yazd,Technology,Monitor,1,141.39,0.1,127.25,10.25,Bank Transfer
+257,2025-01-09,C0025,Small Business,Isfahan,Furniture,Filing Cabinet,3,103.32,0.15,263.47,-6.53,Cash
+263,2025-01-09,C0020,Corporate,Isfahan,Technology,Headphones,1,61.93,0.15,52.64,12.64,Cash
+483,2025-01-09,C0039,Small Business,Tabriz,Technology,Headphones,4,57.74,0.05,219.41,59.41,Cash
+740,2025-01-10,C0132,Small Business,Tehran,Office Supplies,Pen Set,1,5.31,0.0,5.31,1.81,Digital Wallet
+517,2025-01-11,C0148,Small Business,Qom,Office Supplies,Notebook Pack,1,8.23,0.1,7.41,2.41,Cash
+827,2025-01-11,C0101,Consumer,Karaj,Office Supplies,Desk Lamp,1,28.87,0.0,28.87,9.87,Credit Card
+909,2025-01-11,C0054,Corporate,Yazd,Furniture,Bookshelf,1,89.3,0.1,80.37,3.37,Cash
+88,2025-01-14,C0006,Small Business,Mashhad,Technology,Keyboard,5,32.75,0.15,139.19,39.19,Credit Card
+166,2025-01-14,C0021,Corporate,Shiraz,Office Supplies,Notebook Pack,2,7.92,0.0,15.84,5.84,Credit Card
+808,2025-01-14,C0215,Corporate,Isfahan,Office Supplies,Notebook Pack,2,8.73,0.1,15.71,5.71,Credit Card
+982,2025-01-14,C0209,Consumer,Karaj,Furniture,Office Chair,4,130.73,0.0,522.92,110.92,Digital Wallet
+387,2025-01-15,C0220,Consumer,Shiraz,Office Supplies,Notebook Pack,1,8.75,0.05,8.31,3.31,Cash
+525,2025-01-15,C0139,Corporate,Qom,Technology,Monitor,4,145.83,0.0,583.32,115.32,Digital Wallet
+64,2025-01-16,C0122,Small Business,Tabriz,Technology,Keyboard,4,30.81,0.1,110.92,30.92,Cash
+266,2025-01-16,C0142,Corporate,Rasht,Furniture,Standing Desk,3,269.1,0.05,766.94,52.94,Cash
+345,2025-01-16,C0072,Corporate,Isfahan,Office Supplies,Pen Set,1,4.77,0.0,4.77,1.27,Credit Card
+754,2025-01-16,C0046,Corporate,Ahvaz,Technology,Wireless Mouse,4,16.65,0.05,63.27,19.27,Bank Transfer
+211,2025-01-17,C0106,Small Business,Shiraz,Furniture,Office Chair,1,124.42,0.05,118.2,15.2,Digital Wallet
+969,2025-01-18,C0117,Small Business,Isfahan,Office Supplies,Notebook Pack,3,7.74,0.1,20.9,5.9,Bank Transfer
+329,2025-01-19,C0082,Corporate,Tabriz,Furniture,Filing Cabinet,1,119.33,0.0,119.33,29.33,Bank Transfer
+426,2025-01-19,C0159,Small Business,Mashhad,Furniture,Side Table,1,66.87,0.0,66.87,13.87,Cash
+674,2025-01-19,C0017,Small Business,Mashhad,Technology,Wireless Mouse,3,18.15,0.1,49.0,16.0,Digital Wallet
+829,2025-01-19,C0174,Corporate,Shiraz,Office Supplies,Pen Set,2,5.15,0.1,9.27,2.27,Credit Card
+154,2025-01-21,C0094,Corporate,Mashhad,Technology,USB-C Hub,6,43.25,0.05,246.52,72.52,Digital Wallet
+472,2025-01-21,C0172,Consumer,Qom,Technology,USB-C Hub,1,40.41,0.0,40.41,11.41,Bank Transfer
+176,2025-01-22,C0065,Consumer,Shiraz,Office Supplies,Printer Paper,2,7.12,0.2,11.39,1.39,Bank Transfer
+5,2025-01-23,C0142,Corporate,Ahvaz,Furniture,Filing Cabinet,2,108.69,0.2,173.9,-6.1,Bank Transfer
+335,2025-01-23,C0192,Consumer,Ahvaz,Technology,Headphones,2,58.15,0.15,98.85,18.85,Credit Card
+371,2025-01-23,C0016,Consumer,Tabriz,Office Supplies,Pen Set,2,4.84,0.0,9.68,2.68,Credit Card
+599,2025-01-23,C0038,Consumer,Tehran,Technology,Monitor,2,137.32,0.1,247.18,13.18,Digital Wallet
+622,2025-01-23,C0027,Small Business,Mashhad,Furniture,Side Table,4,70.2,0.0,280.8,68.8,Credit Card
+950,2025-01-23,C0027,Small Business,Qom,Technology,Keyboard,2,32.32,0.1,58.18,18.18,Cash
+105,2025-01-24,C0136,Corporate,Ahvaz,Office Supplies,Notebook Pack,1,7.57,0.0,7.57,2.57,Cash
+195,2025-01-24,C0159,Small Business,Tehran,Furniture,Side Table,1,66.49,0.0,66.49,13.49,Digital Wallet
+877,2025-01-24,C0032,Consumer,Qom,Technology,Headphones,2,57.49,0.0,114.98,34.98,Bank Transfer
+984,2025-01-24,C0190,Small Business,Tabriz,Furniture,Standing Desk,3,282.02,0.0,846.06,132.06,Bank Transfer
+244,2025-01-25,C0039,Corporate,Rasht,Office Supplies,Pen Set,3,4.97,0.0,14.91,4.41,Cash
+25,2025-01-26,C0218,Consumer,Isfahan,Furniture,Side Table,4,70.64,0.2,226.05,14.05,Digital Wallet
+123,2025-01-26,C0213,Small Business,Shiraz,Office Supplies,Desk Organizer,6,15.31,0.1,82.67,16.67,Cash
+202,2025-01-26,C0074,Small Business,Tehran,Office Supplies,Pen Set,2,5.21,0.15,8.86,1.86,Credit Card
+380,2025-01-26,C0210,Corporate,Mashhad,Furniture,Filing Cabinet,5,101.6,0.15,431.8,-18.2,Bank Transfer
+603,2025-01-26,C0009,Small Business,Ahvaz,Technology,Keyboard,1,30.28,0.0,30.28,10.28,Bank Transfer
+140,2025-01-27,C0114,Small Business,Rasht,Technology,Keyboard,3,29.91,0.0,89.73,29.73,Digital Wallet
+164,2025-01-27,C0217,Small Business,Tabriz,Furniture,Filing Cabinet,4,103.23,0.05,392.27,32.27,Bank Transfer
+210,2025-01-27,C0216,Corporate,Isfahan,Furniture,Filing Cabinet,1,113.47,0.1,102.12,12.12,Cash
+871,2025-01-27,C0193,Small Business,Rasht,Technology,Keyboard,3,32.28,0.1,87.16,27.16,Credit Card
+78,2025-01-28,C0126,Consumer,Tehran,Furniture,Standing Desk,3,301.37,0.0,904.11,190.11,Bank Transfer
+265,2025-01-28,C0158,Small Business,Rasht,Technology,USB-C Hub,1,43.22,0.0,43.22,14.22,Bank Transfer
+627,2025-01-28,C0162,Small Business,Yazd,Technology,USB-C Hub,2,45.38,0.1,81.68,23.68,Bank Transfer
+692,2025-01-28,C0096,Consumer,Yazd,Office Supplies,Desk Organizer,1,15.23,0.1,13.71,2.71,Cash
+327,2025-01-29,C0147,Small Business,Tabriz,Office Supplies,Desk Lamp,1,28.6,0.0,28.6,9.6,Cash
+383,2025-01-29,C0200,Small Business,Ahvaz,Furniture,Bookshelf,1,94.3,0.1,84.87,7.87,Credit Card
+662,2025-01-30,C0031,Consumer,Ahvaz,Furniture,Bookshelf,5,99.51,0.1,447.8,62.8,Cash
+876,2025-01-31,C0090,Small Business,Shiraz,Office Supplies,Printer Paper,2,6.92,0.15,11.76,1.76,Bank Transfer
+900,2025-01-31,C0092,Corporate,Ahvaz,Technology,Monitor,2,150.41,0.05,285.78,51.78,Cash
+976,2025-01-31,C0105,Corporate,Ahvaz,Furniture,Bookshelf,3,104.21,0.0,312.63,81.63,Credit Card
+228,2025-02-01,C0181,Corporate,Tabriz,Furniture,Office Chair,2,130.44,0.0,260.88,54.88,Bank Transfer
+580,2025-02-01,C0008,Small Business,Mashhad,Furniture,Standing Desk,4,298.67,0.15,1015.48,63.48,Cash
+651,2025-02-01,C0075,Small Business,Ahvaz,Furniture,Filing Cabinet,2,114.2,0.05,216.98,36.98,Credit Card
+523,2025-02-02,C0022,Consumer,Mashhad,Office Supplies,Desk Lamp,1,27.39,0.1,24.65,5.65,Cash
+616,2025-02-03,C0137,Consumer,Ahvaz,Technology,Monitor,4,143.19,0.0,572.76,104.76,Digital Wallet
+887,2025-02-03,C0187,Corporate,Shiraz,Technology,Monitor,5,156.39,0.15,664.66,79.66,Credit Card
+286,2025-02-04,C0166,Consumer,Isfahan,Office Supplies,Notebook Pack,4,8.58,0.0,34.32,14.32,Cash
+612,2025-02-04,C0176,Corporate,Karaj,Office Supplies,Printer Paper,2,6.45,0.0,12.9,2.9,Digital Wallet
+666,2025-02-05,C0037,Small Business,Rasht,Office Supplies,Desk Organizer,2,16.14,0.0,32.28,10.28,Cash
+670,2025-02-05,C0124,Consumer,Ahvaz,Furniture,Bookshelf,1,101.39,0.2,81.11,4.11,Bank Transfer
+749,2025-02-05,C0027,Corporate,Yazd,Office Supplies,Printer Paper,1,7.06,0.2,5.65,0.65,Credit Card
+974,2025-02-05,C0044,Consumer,Karaj,Furniture,Filing Cabinet,2,115.71,0.1,208.28,28.28,Cash
+520,2025-02-06,C0182,Corporate,Ahvaz,Technology,Keyboard,1,33.2,0.0,33.2,13.2,Digital Wallet
+677,2025-02-06,C0159,Consumer,Shiraz,Technology,Keyboard,2,34.67,0.0,69.34,29.34,Cash
+108,2025-02-07,C0177,Corporate,Yazd,Office Supplies,Printer Paper,6,7.65,0.0,45.9,15.9,Bank Transfer
+186,2025-02-07,C0175,Corporate,Karaj,Office Supplies,Desk Organizer,4,14.97,0.05,56.89,12.89,Credit Card
+665,2025-02-07,C0209,Corporate,Isfahan,Office Supplies,Notebook Pack,2,7.45,0.0,14.9,4.9,Digital Wallet
+504,2025-02-08,C0069,Consumer,Shiraz,Furniture,Bookshelf,2,102.69,0.0,205.38,51.38,Digital Wallet
+273,2025-02-09,C0158,Consumer,Yazd,Office Supplies,Printer Paper,5,7.06,0.1,31.77,6.77,Credit Card
+375,2025-02-10,C0153,Corporate,Karaj,Furniture,Filing Cabinet,1,104.13,0.15,88.51,-1.49,Credit Card
+552,2025-02-10,C0211,Corporate,Tehran,Office Supplies,Notebook Pack,1,8.64,0.1,7.78,2.78,Bank Transfer
+563,2025-02-10,C0031,Consumer,Ahvaz,Technology,Monitor,1,144.27,0.15,122.63,5.63,Credit Card
+129,2025-02-11,C0150,Small Business,Karaj,Office Supplies,Desk Lamp,1,27.87,0.0,27.87,8.87,Digital Wallet
+672,2025-02-11,C0099,Small Business,Shiraz,Office Supplies,Printer Paper,2,6.49,0.0,12.98,2.98,Bank Transfer
+683,2025-02-11,C0073,Corporate,Yazd,Technology,Wireless Mouse,1,18.67,0.0,18.67,7.67,Cash
+809,2025-02-11,C0002,Corporate,Tehran,Office Supplies,Pen Set,2,5.13,0.2,8.21,1.21,Digital Wallet
+854,2025-02-11,C0020,Corporate,Qom,Technology,Wireless Mouse,2,17.26,0.0,34.52,12.52,Digital Wallet
+165,2025-02-12,C0024,Consumer,Yazd,Technology,Monitor,2,155.09,0.05,294.67,60.67,Bank Transfer
+820,2025-02-12,C0116,Small Business,Mashhad,Office Supplies,Printer Paper,1,7.39,0.1,6.65,1.65,Bank Transfer
+73,2025-02-13,C0166,Small Business,Yazd,Technology,USB-C Hub,2,43.86,0.1,78.95,20.95,Digital Wallet
+524,2025-02-13,C0161,Consumer,Isfahan,Furniture,Filing Cabinet,1,106.83,0.0,106.83,16.83,Cash
+644,2025-02-13,C0109,Small Business,Isfahan,Technology,USB-C Hub,4,43.9,0.15,149.26,33.26,Digital Wallet
+791,2025-02-13,C0147,Consumer,Tehran,Office Supplies,Printer Paper,1,7.63,0.15,6.49,1.49,Credit Card
+797,2025-02-13,C0176,Consumer,Rasht,Technology,USB-C Hub,1,43.88,0.0,43.88,14.88,Digital Wallet
+867,2025-02-13,C0006,Corporate,Rasht,Furniture,Side Table,1,65.55,0.1,58.99,5.99,Cash
+226,2025-02-14,C0064,Consumer,Mashhad,Office Supplies,Notebook Pack,1,7.83,0.0,7.83,2.83,Digital Wallet
+376,2025-02-14,C0118,Consumer,Ahvaz,Office Supplies,Desk Lamp,2,26.18,0.0,52.36,14.36,Digital Wallet
+270,2025-02-15,C0099,Consumer,Mashhad,Office Supplies,Desk Lamp,1,26.42,0.1,23.78,4.78,Digital Wallet
+425,2025-02-15,C0005,Consumer,Rasht,Office Supplies,Pen Set,1,5.27,0.2,4.22,0.72,Digital Wallet
+494,2025-02-15,C0099,Corporate,Ahvaz,Technology,Monitor,1,134.39,0.0,134.39,17.39,Bank Transfer
+726,2025-02-15,C0119,Small Business,Ahvaz,Technology,USB-C Hub,2,39.96,0.0,79.92,21.92,Cash
+104,2025-02-16,C0043,Small Business,Mashhad,Office Supplies,Notebook Pack,3,7.5,0.1,20.25,5.25,Credit Card
+233,2025-02-16,C0117,Small Business,Tehran,Furniture,Filing Cabinet,3,111.36,0.05,317.38,47.38,Digital Wallet
+535,2025-02-16,C0205,Corporate,Karaj,Technology,Wireless Mouse,2,17.57,0.0,35.14,13.14,Digital Wallet
+247,2025-02-17,C0011,Consumer,Shiraz,Furniture,Bookshelf,1,97.74,0.0,97.74,20.74,Cash
+344,2025-02-17,C0147,Corporate,Rasht,Office Supplies,Notebook Pack,1,7.6,0.05,7.22,2.22,Digital Wallet
+629,2025-02-17,C0197,Corporate,Yazd,Furniture,Filing Cabinet,1,113.96,0.0,113.96,23.96,Cash
+929,2025-02-17,C0155,Corporate,Tehran,Technology,Wireless Mouse,3,19.24,0.0,57.72,24.72,Cash
+560,2025-02-18,C0150,Consumer,Shiraz,Technology,USB-C Hub,1,41.42,0.0,41.42,12.42,Bank Transfer
+894,2025-02-18,C0009,Corporate,Karaj,Furniture,Filing Cabinet,2,102.4,0.0,204.8,24.8,Credit Card
+947,2025-02-19,C0209,Corporate,Karaj,Furniture,Bookshelf,3,96.16,0.0,288.48,57.48,Cash
+308,2025-02-20,C0117,Consumer,Rasht,Furniture,Filing Cabinet,1,104.33,0.15,88.68,-1.32,Cash
+77,2025-02-21,C0137,Consumer,Mashhad,Technology,Monitor,1,133.77,0.0,133.77,16.77,Credit Card
+101,2025-02-21,C0040,Consumer,Yazd,Furniture,Filing Cabinet,1,118.44,0.0,118.44,28.44,Bank Transfer
+240,2025-02-21,C0063,Small Business,Tehran,Furniture,Office Chair,2,134.62,0.1,242.32,36.32,Digital Wallet
+363,2025-02-21,C0019,Consumer,Mashhad,Office Supplies,Desk Lamp,3,25.63,0.1,69.2,12.2,Credit Card
+414,2025-02-21,C0013,Consumer,Isfahan,Office Supplies,Desk Organizer,2,15.48,0.2,24.77,2.77,Credit Card
+463,2025-02-21,C0085,Small Business,Mashhad,Office Supplies,Desk Lamp,1,27.2,0.0,27.2,8.2,Cash
+835,2025-02-21,C0005,Corporate,Mashhad,Office Supplies,Pen Set,1,4.64,0.0,4.64,1.14,Bank Transfer
+828,2025-02-22,C0153,Small Business,Qom,Furniture,Filing Cabinet,6,115.79,0.15,590.53,50.53,Bank Transfer
+284,2025-02-23,C0187,Consumer,Karaj,Office Supplies,Pen Set,5,5.35,0.0,26.75,9.25,Bank Transfer
+689,2025-02-23,C0125,Small Business,Tabriz,Furniture,Office Chair,5,132.67,0.0,663.35,148.35,Credit Card
+853,2025-02-23,C0026,Consumer,Rasht,Office Supplies,Desk Lamp,2,26.6,0.15,45.22,7.22,Digital Wallet
+506,2025-02-24,C0196,Small Business,Tehran,Technology,Wireless Mouse,3,18.55,0.1,50.09,17.09,Digital Wallet
+555,2025-02-24,C0027,Consumer,Isfahan,Furniture,Side Table,1,67.58,0.05,64.2,11.2,Digital Wallet
+679,2025-02-24,C0052,Corporate,Karaj,Technology,USB-C Hub,2,39.12,0.1,70.42,12.42,Digital Wallet
+994,2025-02-24,C0076,Consumer,Yazd,Office Supplies,Notebook Pack,2,7.57,0.05,14.38,4.38,Digital Wallet
+44,2025-02-25,C0131,Consumer,Rasht,Furniture,Filing Cabinet,1,109.84,0.1,98.86,8.86,Cash
+281,2025-02-25,C0166,Small Business,Rasht,Technology,Monitor,1,148.1,0.1,133.29,16.29,Bank Transfer
+709,2025-02-25,C0053,Small Business,Tehran,Technology,Monitor,1,137.33,0.0,137.33,20.33,Bank Transfer
+12,2025-02-26,C0098,Small Business,Yazd,Technology,Keyboard,3,29.81,0.05,84.96,24.96,Bank Transfer
+169,2025-02-26,C0204,Small Business,Yazd,Office Supplies,Desk Organizer,1,15.93,0.0,15.93,4.93,Credit Card
+170,2025-02-26,C0184,Consumer,Mashhad,Office Supplies,Desk Lamp,2,27.63,0.1,49.73,11.73,Digital Wallet
+641,2025-02-26,C0082,Small Business,Rasht,Office Supplies,Notebook Pack,1,7.93,0.1,7.14,2.14,Digital Wallet
+858,2025-02-26,C0096,Corporate,Karaj,Technology,Monitor,2,137.4,0.0,274.8,40.8,Bank Transfer
+377,2025-02-27,C0026,Consumer,Ahvaz,Office Supplies,Desk Organizer,1,16.9,0.1,15.21,4.21,Credit Card
+450,2025-02-28,C0211,Corporate,Qom,Office Supplies,Printer Paper,2,7.59,0.0,15.18,5.18,Digital Wallet
+81,2025-03-02,C0134,Corporate,Yazd,Furniture,Filing Cabinet,2,105.67,0.1,190.21,10.21,Digital Wallet
+686,2025-03-02,C0130,Consumer,Yazd,Furniture,Office Chair,2,137.2,0.15,233.24,27.24,Cash
+741,2025-03-02,C0201,Consumer,Ahvaz,Office Supplies,Notebook Pack,1,8.45,0.1,7.6,2.6,Cash
+330,2025-03-03,C0103,Consumer,Yazd,Furniture,Office Chair,1,137.08,0.15,116.52,13.52,Bank Transfer
+374,2025-03-03,C0050,Consumer,Tehran,Office Supplies,Desk Organizer,5,15.33,0.0,76.65,21.65,Digital Wallet
+750,2025-03-03,C0044,Consumer,Karaj,Technology,USB-C Hub,2,39.41,0.1,70.94,12.94,Cash
+866,2025-03-03,C0063,Small Business,Ahvaz,Furniture,Side Table,1,69.01,0.0,69.01,16.01,Digital Wallet
+216,2025-03-04,C0198,Consumer,Mashhad,Furniture,Side Table,1,69.38,0.2,55.5,2.5,Credit Card
+342,2025-03-04,C0211,Corporate,Karaj,Technology,Wireless Mouse,4,16.98,0.2,54.34,10.34,Credit Card
+851,2025-03-05,C0087,Consumer,Ahvaz,Technology,Wireless Mouse,2,16.58,0.05,31.5,9.5,Cash
+61,2025-03-07,C0007,Consumer,Rasht,Furniture,Side Table,1,66.4,0.0,66.4,13.4,Cash
+191,2025-03-07,C0015,Consumer,Qom,Furniture,Side Table,1,64.86,0.2,51.89,-1.11,Cash
+205,2025-03-07,C0094,Consumer,Shiraz,Technology,USB-C Hub,1,42.86,0.2,34.29,5.29,Digital Wallet
+433,2025-03-07,C0099,Corporate,Ahvaz,Technology,USB-C Hub,3,41.07,0.1,110.89,23.89,Cash
+739,2025-03-07,C0021,Corporate,Tabriz,Furniture,Bookshelf,3,90.99,0.0,272.97,41.97,Credit Card
+761,2025-03-07,C0161,Corporate,Rasht,Office Supplies,Printer Paper,3,7.4,0.1,19.98,4.98,Credit Card
+817,2025-03-07,C0013,Small Business,Tabriz,Furniture,Standing Desk,4,272.49,0.05,1035.46,83.46,Credit Card
+895,2025-03-07,C0027,Small Business,Tehran,Technology,USB-C Hub,1,41.9,0.1,37.71,8.71,Credit Card
+986,2025-03-07,C0120,Consumer,Yazd,Office Supplies,Notebook Pack,1,8.15,0.1,7.34,2.34,Credit Card
+157,2025-03-08,C0209,Consumer,Qom,Furniture,Office Chair,1,132.81,0.0,132.81,29.81,Credit Card
+550,2025-03-08,C0147,Small Business,Rasht,Technology,Wireless Mouse,1,16.88,0.05,16.04,5.04,Digital Wallet
+418,2025-03-09,C0152,Corporate,Ahvaz,Furniture,Office Chair,6,117.33,0.15,598.38,-19.62,Digital Wallet
+174,2025-03-10,C0200,Small Business,Yazd,Technology,Monitor,2,137.97,0.15,234.55,0.55,Digital Wallet
+479,2025-03-10,C0067,Consumer,Qom,Furniture,Side Table,1,60.45,0.05,57.43,4.43,Digital Wallet
+274,2025-03-11,C0206,Corporate,Yazd,Office Supplies,Notebook Pack,5,8.25,0.0,41.25,16.25,Bank Transfer
+526,2025-03-11,C0163,Small Business,Rasht,Furniture,Side Table,1,67.18,0.1,60.46,7.46,Bank Transfer
+824,2025-03-11,C0220,Consumer,Shiraz,Technology,Keyboard,1,35.03,0.0,35.03,15.03,Digital Wallet
+57,2025-03-12,C0107,Corporate,Karaj,Technology,Keyboard,2,30.67,0.0,61.34,21.34,Digital Wallet
+143,2025-03-12,C0045,Consumer,Rasht,Office Supplies,Printer Paper,1,7.38,0.0,7.38,2.38,Cash
+705,2025-03-12,C0193,Small Business,Shiraz,Office Supplies,Desk Organizer,2,16.84,0.1,30.31,8.31,Cash
+841,2025-03-12,C0063,Corporate,Karaj,Technology,Keyboard,2,33.87,0.05,64.35,24.35,Bank Transfer
+272,2025-03-13,C0071,Corporate,Mashhad,Office Supplies,Printer Paper,1,6.65,0.0,6.65,1.65,Digital Wallet
+115,2025-03-14,C0203,Corporate,Tehran,Technology,USB-C Hub,5,41.41,0.15,175.99,30.99,Bank Transfer
+304,2025-03-14,C0204,Consumer,Rasht,Furniture,Standing Desk,2,261.41,0.0,522.82,46.82,Bank Transfer
+138,2025-03-15,C0024,Small Business,Qom,Furniture,Filing Cabinet,1,120.44,0.1,108.4,18.4,Cash
+182,2025-03-15,C0094,Corporate,Rasht,Furniture,Filing Cabinet,1,116.61,0.0,116.61,26.61,Credit Card
+869,2025-03-15,C0174,Consumer,Tehran,Technology,Monitor,3,158.25,0.0,474.75,123.75,Bank Transfer
+911,2025-03-15,C0154,Corporate,Shiraz,Technology,Keyboard,1,31.6,0.0,31.6,11.6,Credit Card
+973,2025-03-15,C0044,Corporate,Tehran,Office Supplies,Desk Organizer,5,15.61,0.0,78.05,23.05,Credit Card
+585,2025-03-16,C0106,Corporate,Yazd,Furniture,Office Chair,3,124.32,0.15,317.02,8.02,Bank Transfer
+51,2025-03-17,C0019,Corporate,Rasht,Technology,Wireless Mouse,1,19.31,0.05,18.34,7.34,Cash
+355,2025-03-17,C0019,Corporate,Rasht,Furniture,Bookshelf,3,102.12,0.15,260.41,29.41,Credit Card
+826,2025-03-17,C0180,Corporate,Yazd,Office Supplies,Pen Set,1,4.74,0.0,4.74,1.24,Digital Wallet
+901,2025-03-17,C0133,Small Business,Isfahan,Office Supplies,Printer Paper,2,7.66,0.0,15.32,5.32,Credit Card
+995,2025-03-17,C0180,Consumer,Ahvaz,Furniture,Standing Desk,1,297.99,0.1,268.19,30.19,Bank Transfer
+624,2025-03-18,C0027,Consumer,Qom,Technology,Monitor,1,148.01,0.2,118.41,1.41,Bank Transfer
+581,2025-03-19,C0174,Small Business,Shiraz,Office Supplies,Pen Set,3,4.94,0.0,14.82,4.32,Digital Wallet
+586,2025-03-19,C0158,Corporate,Ahvaz,Technology,Wireless Mouse,1,19.75,0.0,19.75,8.75,Cash
+838,2025-03-19,C0113,Corporate,Tabriz,Furniture,Side Table,2,60.39,0.0,120.78,14.78,Credit Card
+955,2025-03-19,C0114,Small Business,Karaj,Office Supplies,Desk Organizer,2,16.81,0.0,33.62,11.62,Cash
+268,2025-03-20,C0002,Corporate,Yazd,Office Supplies,Desk Organizer,3,15.03,0.0,45.09,12.09,Bank Transfer
+565,2025-03-20,C0024,Consumer,Rasht,Technology,USB-C Hub,6,42.99,0.1,232.15,58.15,Bank Transfer
+643,2025-03-20,C0185,Corporate,Rasht,Office Supplies,Desk Organizer,1,14.77,0.0,14.77,3.77,Cash
+755,2025-03-20,C0134,Corporate,Yazd,Office Supplies,Desk Lamp,2,28.05,0.1,50.49,12.49,Cash
+338,2025-03-21,C0092,Consumer,Yazd,Technology,Keyboard,2,30.14,0.0,60.28,20.28,Bank Transfer
+366,2025-03-22,C0142,Small Business,Qom,Technology,Wireless Mouse,1,17.89,0.2,14.31,3.31,Bank Transfer
+840,2025-03-22,C0026,Consumer,Karaj,Furniture,Standing Desk,3,282.72,0.1,763.34,49.34,Bank Transfer
+41,2025-03-23,C0052,Corporate,Karaj,Furniture,Office Chair,2,125.59,0.0,251.18,45.18,Bank Transfer
+200,2025-03-23,C0132,Corporate,Yazd,Office Supplies,Desk Lamp,3,25.61,0.0,76.83,19.83,Bank Transfer
+471,2025-03-23,C0189,Small Business,Yazd,Technology,Headphones,5,63.46,0.1,285.57,85.57,Bank Transfer
+933,2025-03-23,C0176,Corporate,Mashhad,Furniture,Side Table,5,65.68,0.1,295.56,30.56,Cash
+40,2025-03-25,C0106,Small Business,Shiraz,Technology,USB-C Hub,1,41.15,0.1,37.03,8.03,Bank Transfer
+86,2025-03-26,C0032,Corporate,Mashhad,Office Supplies,Desk Lamp,3,26.24,0.05,74.78,17.78,Digital Wallet
+114,2025-03-26,C0206,Consumer,Yazd,Office Supplies,Pen Set,5,5.38,0.0,26.9,9.4,Credit Card
+864,2025-03-26,C0144,Small Business,Tabriz,Furniture,Office Chair,2,130.92,0.1,235.66,29.66,Credit Card
+296,2025-03-27,C0071,Consumer,Qom,Technology,Headphones,1,56.41,0.1,50.77,10.77,Bank Transfer
+325,2025-03-27,C0031,Consumer,Karaj,Office Supplies,Desk Organizer,3,16.83,0.15,42.92,9.92,Digital Wallet
+405,2025-03-27,C0153,Small Business,Karaj,Technology,Wireless Mouse,1,18.92,0.0,18.92,7.92,Digital Wallet
+482,2025-03-27,C0097,Corporate,Isfahan,Furniture,Standing Desk,5,261.07,0.1,1174.82,-15.18,Credit Card
+297,2025-03-28,C0029,Small Business,Tabriz,Office Supplies,Desk Lamp,3,27.51,0.1,74.28,17.28,Bank Transfer
+943,2025-03-28,C0056,Small Business,Tehran,Technology,Wireless Mouse,3,17.72,0.0,53.16,20.16,Cash
+106,2025-03-29,C0128,Small Business,Isfahan,Technology,Wireless Mouse,2,18.77,0.0,37.54,15.54,Cash
+194,2025-03-29,C0145,Consumer,Tehran,Furniture,Side Table,3,69.66,0.1,188.08,29.08,Credit Card
+396,2025-03-29,C0067,Small Business,Qom,Furniture,Side Table,1,61.3,0.0,61.3,8.3,Cash
+575,2025-03-29,C0120,Small Business,Tehran,Technology,Monitor,1,140.48,0.1,126.43,9.43,Credit Card
+886,2025-03-29,C0145,Consumer,Tabriz,Furniture,Bookshelf,3,99.07,0.05,282.35,51.35,Cash
+379,2025-03-30,C0010,Corporate,Karaj,Office Supplies,Pen Set,1,5.22,0.1,4.7,1.2,Cash
+384,2025-03-30,C0093,Small Business,Shiraz,Technology,Keyboard,4,32.07,0.0,128.28,48.28,Bank Transfer
+89,2025-03-31,C0150,Corporate,Yazd,Office Supplies,Desk Lamp,3,25.72,0.15,65.59,8.59,Credit Card
+125,2025-03-31,C0151,Corporate,Tehran,Technology,Wireless Mouse,1,19.11,0.0,19.11,8.11,Cash
+341,2025-03-31,C0025,Corporate,Tabriz,Technology,USB-C Hub,4,42.8,0.05,162.64,46.64,Cash
+357,2025-03-31,C0058,Small Business,Ahvaz,Furniture,Side Table,3,69.01,0.15,175.98,16.98,Cash
+619,2025-03-31,C0114,Small Business,Tehran,Technology,Monitor,3,157.24,0.1,424.55,73.55,Digital Wallet
+654,2025-03-31,C0088,Consumer,Isfahan,Office Supplies,Desk Organizer,2,17.2,0.1,30.96,8.96,Cash
+780,2025-03-31,C0126,Small Business,Karaj,Technology,Monitor,2,148.79,0.0,297.58,63.58,Credit Card
+952,2025-03-31,C0005,Small Business,Ahvaz,Furniture,Standing Desk,6,261.0,0.1,1409.4,-18.6,Digital Wallet
+53,2025-04-01,C0032,Corporate,Isfahan,Furniture,Side Table,2,70.53,0.05,134.01,28.01,Digital Wallet
+386,2025-04-01,C0067,Small Business,Tabriz,Office Supplies,Desk Lamp,2,28.91,0.0,57.82,19.82,Bank Transfer
+514,2025-04-01,C0137,Small Business,Karaj,Office Supplies,Pen Set,1,5.17,0.15,4.39,0.89,Digital Wallet
+491,2025-04-02,C0089,Small Business,Rasht,Office Supplies,Desk Lamp,2,26.33,0.0,52.66,14.66,Cash
+998,2025-04-02,C0041,Consumer,Qom,Office Supplies,Pen Set,1,5.42,0.15,4.61,1.11,Digital Wallet
+236,2025-04-03,C0097,Corporate,Tabriz,Technology,USB-C Hub,1,42.03,0.15,35.73,6.73,Cash
+419,2025-04-03,C0215,Small Business,Isfahan,Furniture,Filing Cabinet,3,118.28,0.1,319.36,49.36,Digital Wallet
+537,2025-04-03,C0197,Small Business,Shiraz,Technology,Monitor,4,136.58,0.15,464.37,-3.63,Digital Wallet
+796,2025-04-03,C0116,Consumer,Karaj,Office Supplies,Desk Organizer,1,15.4,0.2,12.32,1.32,Digital Wallet
+870,2025-04-03,C0083,Corporate,Rasht,Technology,Wireless Mouse,1,17.02,0.0,17.02,6.02,Credit Card
+359,2025-04-04,C0145,Consumer,Yazd,Furniture,Standing Desk,5,268.73,0.2,1074.92,-115.08,Cash
+860,2025-04-04,C0012,Corporate,Yazd,Furniture,Filing Cabinet,1,102.54,0.05,97.41,7.41,Bank Transfer
+254,2025-04-05,C0210,Small Business,Tehran,Furniture,Office Chair,2,116.67,0.15,198.34,-7.66,Credit Card
+29,2025-04-06,C0146,Consumer,Ahvaz,Technology,Headphones,1,57.58,0.15,48.94,8.94,Credit Card
+617,2025-04-06,C0081,Small Business,Tehran,Furniture,Office Chair,4,130.87,0.1,471.13,59.13,Bank Transfer
+821,2025-04-06,C0173,Consumer,Rasht,Technology,Keyboard,1,30.93,0.2,24.74,4.74,Credit Card
+239,2025-04-07,C0005,Consumer,Shiraz,Furniture,Office Chair,1,128.84,0.1,115.96,12.96,Credit Card
+530,2025-04-07,C0166,Corporate,Rasht,Office Supplies,Desk Lamp,2,28.31,0.0,56.62,18.62,Cash
+711,2025-04-07,C0166,Corporate,Rasht,Technology,Wireless Mouse,4,19.63,0.0,78.52,34.52,Bank Transfer
+224,2025-04-09,C0048,Consumer,Karaj,Technology,Monitor,1,140.11,0.05,133.1,16.1,Bank Transfer
+258,2025-04-09,C0021,Corporate,Rasht,Furniture,Side Table,1,69.1,0.0,69.1,16.1,Digital Wallet
+865,2025-04-09,C0049,Corporate,Qom,Furniture,Side Table,2,66.47,0.0,132.94,26.94,Credit Card
+883,2025-04-09,C0182,Corporate,Shiraz,Office Supplies,Notebook Pack,1,7.76,0.0,7.76,2.76,Credit Card
+295,2025-04-10,C0107,Small Business,Yazd,Office Supplies,Desk Lamp,2,28.17,0.05,53.52,15.52,Digital Wallet
+443,2025-04-10,C0045,Small Business,Qom,Office Supplies,Pen Set,1,4.77,0.1,4.29,0.79,Credit Card
+496,2025-04-10,C0173,Consumer,Karaj,Technology,Headphones,2,59.78,0.1,107.6,27.6,Cash
+610,2025-04-10,C0218,Consumer,Ahvaz,Technology,Wireless Mouse,1,16.94,0.1,15.25,4.25,Digital Wallet
+907,2025-04-10,C0051,Consumer,Mashhad,Furniture,Side Table,5,71.21,0.0,356.05,91.05,Cash
+193,2025-04-11,C0024,Small Business,Isfahan,Furniture,Side Table,1,66.99,0.1,60.29,7.29,Cash
+965,2025-04-11,C0096,Corporate,Rasht,Technology,Keyboard,1,33.65,0.15,28.6,8.6,Digital Wallet
+109,2025-04-12,C0076,Small Business,Mashhad,Office Supplies,Pen Set,1,4.92,0.0,4.92,1.42,Credit Card
+578,2025-04-12,C0136,Corporate,Karaj,Furniture,Filing Cabinet,2,101.99,0.1,183.58,3.58,Digital Wallet
+930,2025-04-12,C0018,Corporate,Tehran,Technology,USB-C Hub,1,43.63,0.0,43.63,14.63,Bank Transfer
+400,2025-04-13,C0037,Corporate,Isfahan,Office Supplies,Pen Set,6,5.49,0.15,28.0,7.0,Credit Card
+505,2025-04-13,C0064,Small Business,Karaj,Technology,Keyboard,4,30.61,0.0,122.44,42.44,Cash
+727,2025-04-13,C0078,Small Business,Mashhad,Technology,USB-C Hub,1,44.86,0.05,42.62,13.62,Digital Wallet
+789,2025-04-13,C0133,Small Business,Isfahan,Furniture,Standing Desk,1,265.55,0.0,265.55,27.55,Digital Wallet
+916,2025-04-14,C0147,Consumer,Karaj,Office Supplies,Desk Organizer,2,17.28,0.0,34.56,12.56,Bank Transfer
+93,2025-04-15,C0125,Consumer,Tehran,Office Supplies,Desk Lamp,1,29.12,0.0,29.12,10.12,Cash
+251,2025-04-15,C0038,Consumer,Mashhad,Office Supplies,Printer Paper,2,6.72,0.05,12.77,2.77,Digital Wallet
+806,2025-04-15,C0145,Small Business,Ahvaz,Office Supplies,Desk Organizer,4,17.09,0.1,61.52,17.52,Cash
+959,2025-04-15,C0053,Consumer,Qom,Technology,Wireless Mouse,1,19.14,0.05,18.18,7.18,Credit Card
+301,2025-04-16,C0044,Corporate,Mashhad,Technology,Wireless Mouse,2,18.49,0.05,35.13,13.13,Bank Transfer
+369,2025-04-16,C0201,Corporate,Yazd,Technology,Monitor,6,136.41,0.05,777.54,75.54,Digital Wallet
+684,2025-04-16,C0157,Small Business,Tehran,Technology,Monitor,2,157.88,0.05,299.97,65.97,Cash
+634,2025-04-17,C0088,Small Business,Shiraz,Furniture,Side Table,2,66.44,0.2,106.3,0.3,Cash
+812,2025-04-17,C0168,Consumer,Tabriz,Technology,USB-C Hub,3,44.33,0.0,132.99,45.99,Bank Transfer
+460,2025-04-18,C0037,Consumer,Isfahan,Furniture,Standing Desk,1,300.51,0.15,255.43,17.43,Cash
+478,2025-04-18,C0033,Small Business,Ahvaz,Furniture,Bookshelf,2,91.57,0.05,173.98,19.98,Cash
+10,2025-04-19,C0068,Consumer,Shiraz,Furniture,Filing Cabinet,2,110.29,0.15,187.49,7.49,Bank Transfer
+979,2025-04-19,C0069,Corporate,Yazd,Furniture,Office Chair,1,136.65,0.05,129.82,26.82,Bank Transfer
+849,2025-04-20,C0041,Consumer,Tehran,Technology,Headphones,2,61.26,0.05,116.39,36.39,Bank Transfer
+340,2025-04-21,C0132,Consumer,Mashhad,Office Supplies,Desk Organizer,1,15.74,0.0,15.74,4.74,Bank Transfer
+3,2025-04-23,C0041,Small Business,Rasht,Office Supplies,Desk Lamp,1,28.53,0.15,24.25,5.25,Bank Transfer
+351,2025-04-23,C0046,Consumer,Ahvaz,Furniture,Filing Cabinet,1,117.94,0.15,100.25,10.25,Bank Transfer
+908,2025-04-23,C0006,Consumer,Mashhad,Office Supplies,Desk Organizer,1,15.23,0.05,14.47,3.47,Credit Card
+407,2025-04-25,C0032,Corporate,Tehran,Furniture,Bookshelf,1,96.03,0.0,96.03,19.03,Digital Wallet
+630,2025-04-25,C0171,Corporate,Karaj,Technology,Headphones,1,55.27,0.0,55.27,15.27,Digital Wallet
+159,2025-04-26,C0198,Small Business,Qom,Technology,Keyboard,1,30.02,0.15,25.52,5.52,Credit Card
+42,2025-04-27,C0018,Corporate,Karaj,Technology,Wireless Mouse,3,17.46,0.0,52.38,19.38,Digital Wallet
+111,2025-04-28,C0194,Small Business,Isfahan,Furniture,Standing Desk,1,270.23,0.0,270.23,32.23,Credit Card
+804,2025-04-28,C0030,Corporate,Tehran,Technology,Wireless Mouse,2,18.07,0.0,36.14,14.14,Digital Wallet
+577,2025-04-29,C0153,Small Business,Tabriz,Office Supplies,Desk Lamp,6,26.37,0.0,158.22,44.22,Cash
+124,2025-04-30,C0038,Consumer,Qom,Office Supplies,Desk Organizer,3,15.52,0.1,41.9,8.9,Bank Transfer
+991,2025-04-30,C0190,Small Business,Shiraz,Technology,Monitor,1,135.73,0.0,135.73,18.73,Credit Card
+227,2025-05-01,C0003,Corporate,Karaj,Office Supplies,Printer Paper,5,7.35,0.0,36.75,11.75,Cash
+513,2025-05-01,C0190,Consumer,Yazd,Furniture,Filing Cabinet,4,117.04,0.0,468.16,108.16,Credit Card
+522,2025-05-01,C0043,Corporate,Tabriz,Furniture,Standing Desk,5,261.64,0.1,1177.38,-12.62,Credit Card
+690,2025-05-01,C0174,Corporate,Shiraz,Furniture,Filing Cabinet,2,105.14,0.0,210.28,30.28,Credit Card
+300,2025-05-02,C0110,Consumer,Ahvaz,Technology,Headphones,3,59.73,0.15,152.31,32.31,Cash
+441,2025-05-02,C0107,Small Business,Karaj,Furniture,Standing Desk,3,276.83,0.0,830.49,116.49,Credit Card
+511,2025-05-02,C0109,Consumer,Rasht,Office Supplies,Pen Set,5,4.77,0.0,23.85,6.35,Bank Transfer
+646,2025-05-02,C0009,Consumer,Ahvaz,Furniture,Side Table,1,66.54,0.15,56.56,3.56,Digital Wallet
+715,2025-05-02,C0095,Consumer,Shiraz,Technology,Wireless Mouse,6,17.99,0.05,102.54,36.54,Credit Card
+902,2025-05-02,C0052,Small Business,Shiraz,Furniture,Side Table,4,62.09,0.05,235.94,23.94,Credit Card
+954,2025-05-02,C0096,Corporate,Mashhad,Furniture,Filing Cabinet,3,102.39,0.1,276.45,6.45,Cash
+893,2025-05-03,C0019,Small Business,Ahvaz,Office Supplies,Notebook Pack,4,7.7,0.05,29.26,9.26,Digital Wallet
+946,2025-05-03,C0211,Consumer,Tabriz,Technology,Wireless Mouse,1,16.61,0.0,16.61,5.61,Cash
+582,2025-05-04,C0115,Small Business,Isfahan,Furniture,Bookshelf,2,97.75,0.0,195.5,41.5,Cash
+850,2025-05-04,C0096,Corporate,Qom,Office Supplies,Pen Set,6,4.65,0.0,27.9,6.9,Bank Transfer
+22,2025-05-05,C0109,Corporate,Yazd,Office Supplies,Pen Set,1,4.99,0.0,4.99,1.49,Credit Card
+249,2025-05-05,C0083,Corporate,Rasht,Furniture,Side Table,3,62.6,0.0,187.8,28.8,Digital Wallet
+572,2025-05-05,C0178,Consumer,Mashhad,Furniture,Bookshelf,4,87.63,0.15,297.94,-10.06,Digital Wallet
+682,2025-05-05,C0097,Consumer,Tehran,Furniture,Office Chair,1,129.22,0.1,116.3,13.3,Digital Wallet
+970,2025-05-07,C0198,Consumer,Rasht,Furniture,Side Table,5,59.94,0.15,254.74,-10.26,Digital Wallet
+36,2025-05-09,C0086,Consumer,Mashhad,Technology,Wireless Mouse,2,16.7,0.15,28.39,6.39,Cash
+545,2025-05-09,C0126,Consumer,Ahvaz,Technology,USB-C Hub,3,42.74,0.05,121.81,34.81,Cash
+951,2025-05-09,C0198,Small Business,Isfahan,Technology,Headphones,1,57.42,0.1,51.68,11.68,Bank Transfer
+63,2025-05-10,C0090,Consumer,Tabriz,Technology,USB-C Hub,1,46.2,0.05,43.89,14.89,Credit Card
+173,2025-05-10,C0169,Small Business,Tabriz,Furniture,Office Chair,1,120.43,0.0,120.43,17.43,Bank Transfer
+783,2025-05-10,C0208,Small Business,Tabriz,Furniture,Filing Cabinet,1,108.38,0.2,86.7,-3.3,Cash
+45,2025-05-11,C0185,Small Business,Shiraz,Technology,USB-C Hub,1,42.71,0.15,36.3,7.3,Bank Transfer
+430,2025-05-11,C0118,Consumer,Karaj,Furniture,Bookshelf,1,94.12,0.15,80.0,3.0,Credit Card
+488,2025-05-12,C0031,Small Business,Tehran,Technology,Wireless Mouse,3,18.43,0.1,49.76,16.76,Digital Wallet
+185,2025-05-15,C0126,Consumer,Tabriz,Office Supplies,Pen Set,1,5.22,0.1,4.7,1.2,Cash
+467,2025-05-15,C0162,Consumer,Ahvaz,Furniture,Office Chair,3,134.12,0.15,342.01,33.01,Digital Wallet
+474,2025-05-15,C0151,Small Business,Tabriz,Furniture,Side Table,2,64.23,0.0,128.46,22.46,Bank Transfer
+531,2025-05-15,C0157,Small Business,Mashhad,Technology,USB-C Hub,2,44.69,0.05,84.91,26.91,Bank Transfer
+31,2025-05-16,C0193,Consumer,Tehran,Office Supplies,Desk Organizer,3,15.63,0.0,46.89,13.89,Digital Wallet
+83,2025-05-16,C0001,Corporate,Yazd,Furniture,Office Chair,1,116.69,0.0,116.69,13.69,Digital Wallet
+126,2025-05-16,C0122,Corporate,Karaj,Technology,Keyboard,3,33.74,0.05,96.16,36.16,Credit Card
+767,2025-05-16,C0191,Consumer,Ahvaz,Technology,Monitor,6,139.3,0.05,794.01,92.01,Credit Card
+764,2025-05-17,C0100,Corporate,Ahvaz,Technology,USB-C Hub,2,41.5,0.2,66.4,8.4,Credit Card
+388,2025-05-18,C0175,Consumer,Yazd,Furniture,Filing Cabinet,2,120.35,0.15,204.59,24.59,Cash
+872,2025-05-18,C0105,Small Business,Shiraz,Technology,Monitor,2,146.04,0.05,277.48,43.48,Credit Card
+873,2025-05-18,C0202,Consumer,Mashhad,Furniture,Side Table,3,66.29,0.0,198.87,39.87,Digital Wallet
+262,2025-05-19,C0169,Consumer,Isfahan,Technology,Wireless Mouse,3,18.32,0.0,54.96,21.96,Bank Transfer
+269,2025-05-19,C0132,Corporate,Tabriz,Technology,Keyboard,1,32.65,0.05,31.02,11.02,Credit Card
+349,2025-05-19,C0200,Corporate,Tehran,Technology,Wireless Mouse,1,19.46,0.0,19.46,8.46,Digital Wallet
+521,2025-05-19,C0043,Consumer,Tehran,Office Supplies,Printer Paper,3,7.01,0.05,19.98,4.98,Cash
+35,2025-05-20,C0219,Corporate,Qom,Office Supplies,Desk Lamp,1,28.18,0.0,28.18,9.18,Digital Wallet
+87,2025-05-20,C0111,Small Business,Karaj,Furniture,Side Table,2,60.27,0.0,120.54,14.54,Bank Transfer
+326,2025-05-20,C0128,Corporate,Qom,Furniture,Office Chair,1,129.12,0.2,103.3,0.3,Bank Transfer
+879,2025-05-20,C0005,Small Business,Isfahan,Technology,Monitor,1,149.05,0.05,141.6,24.6,Credit Card
+181,2025-05-21,C0206,Small Business,Isfahan,Furniture,Office Chair,1,123.17,0.1,110.85,7.85,Credit Card
+243,2025-05-21,C0161,Small Business,Rasht,Technology,Headphones,5,62.88,0.15,267.24,67.24,Digital Wallet
+434,2025-05-21,C0106,Small Business,Qom,Office Supplies,Printer Paper,6,6.61,0.05,37.68,7.68,Bank Transfer
+653,2025-05-21,C0190,Consumer,Yazd,Office Supplies,Notebook Pack,3,8.67,0.1,23.41,8.41,Bank Transfer
+786,2025-05-21,C0184,Corporate,Tabriz,Technology,USB-C Hub,2,45.0,0.05,85.5,27.5,Cash
+465,2025-05-22,C0115,Corporate,Mashhad,Office Supplies,Desk Organizer,3,16.1,0.0,48.3,15.3,Digital Wallet
+499,2025-05-22,C0002,Corporate,Isfahan,Technology,Headphones,5,57.58,0.05,273.5,73.5,Digital Wallet
+687,2025-05-22,C0122,Corporate,Isfahan,Technology,Keyboard,1,34.3,0.0,34.3,14.3,Cash
+920,2025-05-22,C0086,Consumer,Karaj,Technology,Wireless Mouse,1,18.33,0.0,18.33,7.33,Bank Transfer
+4,2025-05-23,C0025,Corporate,Karaj,Technology,Keyboard,5,29.97,0.0,149.85,49.85,Bank Transfer
+7,2025-05-23,C0180,Small Business,Tabriz,Office Supplies,Printer Paper,1,7.28,0.0,7.28,2.28,Cash
+136,2025-05-23,C0210,Small Business,Ahvaz,Furniture,Bookshelf,3,104.06,0.15,265.35,34.35,Credit Card
+696,2025-05-23,C0149,Consumer,Ahvaz,Technology,USB-C Hub,3,41.11,0.0,123.33,36.33,Cash
+721,2025-05-23,C0023,Small Business,Rasht,Technology,Wireless Mouse,1,18.75,0.15,15.94,4.94,Cash
+890,2025-05-23,C0021,Small Business,Tehran,Office Supplies,Desk Lamp,2,25.79,0.0,51.58,13.58,Cash
+956,2025-05-23,C0074,Consumer,Shiraz,Office Supplies,Notebook Pack,2,8.29,0.2,13.26,3.26,Bank Transfer
+277,2025-05-24,C0140,Consumer,Qom,Office Supplies,Printer Paper,1,7.19,0.05,6.83,1.83,Credit Card
+347,2025-05-24,C0064,Small Business,Qom,Office Supplies,Desk Organizer,2,17.02,0.1,30.64,8.64,Credit Card
+411,2025-05-25,C0213,Small Business,Shiraz,Technology,Wireless Mouse,2,19.08,0.1,34.34,12.34,Bank Transfer
+33,2025-05-26,C0207,Small Business,Qom,Technology,USB-C Hub,4,43.26,0.1,155.74,39.74,Credit Card
+156,2025-05-26,C0037,Corporate,Mashhad,Office Supplies,Desk Lamp,4,27.67,0.0,110.68,34.68,Digital Wallet
+518,2025-05-26,C0021,Corporate,Ahvaz,Office Supplies,Printer Paper,3,7.37,0.05,21.0,6.0,Bank Transfer
+714,2025-05-26,C0047,Consumer,Isfahan,Office Supplies,Desk Organizer,2,16.26,0.0,32.52,10.52,Cash
+27,2025-05-27,C0056,Consumer,Ahvaz,Office Supplies,Desk Lamp,3,25.76,0.05,73.42,16.42,Credit Card
+378,2025-05-27,C0147,Small Business,Yazd,Furniture,Standing Desk,4,290.6,0.0,1162.4,210.4,Credit Card
+439,2025-05-27,C0053,Small Business,Tehran,Furniture,Standing Desk,1,297.13,0.0,297.13,59.13,Bank Transfer
+652,2025-05-27,C0065,Consumer,Ahvaz,Office Supplies,Notebook Pack,1,8.49,0.0,8.49,3.49,Bank Transfer
+961,2025-05-27,C0124,Consumer,Karaj,Furniture,Filing Cabinet,5,118.28,0.0,591.4,141.4,Digital Wallet
+215,2025-05-28,C0144,Small Business,Mashhad,Furniture,Bookshelf,3,95.6,0.05,272.46,41.46,Bank Transfer
+217,2025-05-28,C0123,Consumer,Shiraz,Furniture,Office Chair,1,120.77,0.05,114.73,11.73,Bank Transfer
+415,2025-05-29,C0012,Consumer,Isfahan,Office Supplies,Printer Paper,2,7.51,0.0,15.02,5.02,Cash
+462,2025-05-29,C0085,Corporate,Isfahan,Furniture,Office Chair,1,128.06,0.0,128.06,25.06,Cash
+84,2025-05-30,C0019,Small Business,Shiraz,Technology,Keyboard,1,34.39,0.0,34.39,14.39,Bank Transfer
+756,2025-05-31,C0139,Small Business,Tehran,Furniture,Filing Cabinet,2,108.0,0.0,216.0,36.0,Credit Card
+833,2025-05-31,C0189,Corporate,Yazd,Furniture,Filing Cabinet,5,114.53,0.15,486.75,36.75,Cash
+859,2025-05-31,C0013,Corporate,Mashhad,Office Supplies,Notebook Pack,3,8.21,0.0,24.63,9.63,Cash
+896,2025-05-31,C0154,Small Business,Ahvaz,Office Supplies,Pen Set,1,4.81,0.1,4.33,0.83,Credit Card
+252,2025-06-01,C0128,Small Business,Karaj,Technology,Keyboard,1,34.24,0.0,34.24,14.24,Bank Transfer
+82,2025-06-02,C0190,Consumer,Shiraz,Furniture,Filing Cabinet,1,113.27,0.1,101.94,11.94,Cash
+238,2025-06-02,C0118,Corporate,Isfahan,Office Supplies,Desk Lamp,2,25.96,0.0,51.92,13.92,Bank Transfer
+785,2025-06-02,C0197,Small Business,Rasht,Technology,Keyboard,5,34.51,0.1,155.29,55.29,Credit Card
+515,2025-06-03,C0042,Consumer,Shiraz,Office Supplies,Desk Lamp,4,25.32,0.0,101.28,25.28,Bank Transfer
+561,2025-06-03,C0186,Corporate,Yazd,Technology,Headphones,2,61.03,0.15,103.75,23.75,Cash
+410,2025-06-04,C0036,Corporate,Tabriz,Office Supplies,Notebook Pack,3,8.23,0.0,24.69,9.69,Credit Card
+559,2025-06-04,C0198,Small Business,Mashhad,Technology,Monitor,6,141.62,0.0,849.72,147.72,Cash
+921,2025-06-04,C0219,Small Business,Qom,Furniture,Standing Desk,1,264.55,0.1,238.1,0.1,Bank Transfer
+192,2025-06-05,C0133,Corporate,Tabriz,Technology,Keyboard,1,31.43,0.1,28.29,8.29,Bank Transfer
+823,2025-06-05,C0102,Corporate,Tabriz,Furniture,Side Table,1,67.88,0.1,61.09,8.09,Cash
+334,2025-06-07,C0016,Consumer,Mashhad,Technology,Keyboard,2,32.27,0.0,64.54,24.54,Credit Card
+600,2025-06-07,C0052,Consumer,Ahvaz,Office Supplies,Pen Set,1,5.41,0.0,5.41,1.91,Bank Transfer
+324,2025-06-08,C0042,Corporate,Karaj,Furniture,Bookshelf,1,99.4,0.1,89.46,12.46,Bank Transfer
+996,2025-06-08,C0162,Consumer,Yazd,Furniture,Office Chair,1,127.91,0.15,108.72,5.72,Bank Transfer
+66,2025-06-09,C0097,Corporate,Shiraz,Technology,Headphones,1,60.43,0.0,60.43,20.43,Credit Card
+331,2025-06-09,C0145,Corporate,Ahvaz,Office Supplies,Notebook Pack,2,7.65,0.0,15.3,5.3,Cash
+628,2025-06-09,C0194,Corporate,Ahvaz,Office Supplies,Desk Organizer,3,16.26,0.1,43.9,10.9,Cash
+28,2025-06-10,C0041,Consumer,Qom,Technology,Wireless Mouse,2,19.32,0.05,36.71,14.71,Credit Card
+132,2025-06-10,C0018,Consumer,Tabriz,Furniture,Standing Desk,1,304.12,0.0,304.12,66.12,Credit Card
+591,2025-06-10,C0165,Small Business,Tehran,Office Supplies,Desk Lamp,5,27.45,0.05,130.39,35.39,Credit Card
+779,2025-06-10,C0109,Consumer,Isfahan,Office Supplies,Desk Lamp,3,28.46,0.15,72.57,15.57,Credit Card
+76,2025-06-11,C0190,Corporate,Mashhad,Technology,Headphones,5,55.36,0.1,249.12,49.12,Bank Transfer
+337,2025-06-11,C0052,Consumer,Ahvaz,Office Supplies,Printer Paper,1,6.53,0.0,6.53,1.53,Credit Card
+455,2025-06-11,C0159,Consumer,Ahvaz,Technology,USB-C Hub,3,43.49,0.05,123.95,36.95,Credit Card
+734,2025-06-11,C0137,Small Business,Karaj,Furniture,Standing Desk,1,275.87,0.1,248.28,10.28,Cash
+544,2025-06-12,C0177,Corporate,Karaj,Furniture,Standing Desk,3,267.33,0.05,761.89,47.89,Cash
+781,2025-06-12,C0201,Consumer,Karaj,Furniture,Filing Cabinet,2,106.7,0.0,213.4,33.4,Digital Wallet
+167,2025-06-13,C0213,Corporate,Isfahan,Technology,Monitor,3,140.89,0.0,422.67,71.67,Digital Wallet
+198,2025-06-13,C0144,Consumer,Karaj,Furniture,Standing Desk,6,276.28,0.0,1657.68,229.68,Cash
+364,2025-06-13,C0188,Consumer,Qom,Office Supplies,Notebook Pack,1,7.9,0.0,7.9,2.9,Credit Card
+773,2025-06-13,C0042,Corporate,Ahvaz,Technology,Keyboard,4,31.09,0.0,124.36,44.36,Cash
+790,2025-06-13,C0152,Corporate,Mashhad,Office Supplies,Pen Set,4,4.76,0.0,19.04,5.04,Cash
+153,2025-06-14,C0208,Corporate,Tabriz,Furniture,Filing Cabinet,2,110.12,0.2,176.19,-3.81,Cash
+706,2025-06-14,C0096,Corporate,Yazd,Office Supplies,Printer Paper,2,6.51,0.05,12.37,2.37,Digital Wallet
+307,2025-06-15,C0202,Corporate,Tehran,Office Supplies,Printer Paper,2,7.51,0.0,15.02,5.02,Credit Card
+569,2025-06-15,C0090,Consumer,Karaj,Furniture,Side Table,1,64.76,0.1,58.28,5.28,Bank Transfer
+541,2025-06-16,C0063,Consumer,Tehran,Technology,Keyboard,3,31.72,0.1,85.64,25.64,Digital Wallet
+636,2025-06-16,C0018,Small Business,Tabriz,Furniture,Office Chair,4,136.51,0.0,546.04,134.04,Digital Wallet
+680,2025-06-16,C0055,Consumer,Ahvaz,Technology,Headphones,2,63.43,0.0,126.86,46.86,Cash
+691,2025-06-16,C0057,Consumer,Yazd,Technology,Wireless Mouse,1,17.21,0.05,16.35,5.35,Digital Wallet
+810,2025-06-16,C0073,Corporate,Tehran,Furniture,Side Table,1,69.18,0.15,58.8,5.8,Credit Card
+47,2025-06-17,C0098,Small Business,Isfahan,Office Supplies,Printer Paper,2,7.28,0.0,14.56,4.56,Bank Transfer
+113,2025-06-17,C0094,Small Business,Qom,Furniture,Filing Cabinet,1,111.88,0.0,111.88,21.88,Bank Transfer
+207,2025-06-17,C0077,Small Business,Karaj,Furniture,Standing Desk,1,294.86,0.2,235.89,-2.11,Digital Wallet
+637,2025-06-17,C0194,Small Business,Tehran,Office Supplies,Notebook Pack,1,8.64,0.15,7.34,2.34,Cash
+416,2025-06-18,C0096,Corporate,Isfahan,Office Supplies,Pen Set,5,5.26,0.0,26.3,8.8,Credit Card
+21,2025-06-19,C0034,Small Business,Ahvaz,Technology,Headphones,1,55.6,0.1,50.04,10.04,Digital Wallet
+360,2025-06-19,C0023,Small Business,Karaj,Furniture,Office Chair,1,118.78,0.2,95.02,-7.98,Digital Wallet
+604,2025-06-19,C0073,Small Business,Ahvaz,Technology,Wireless Mouse,1,17.08,0.2,13.66,2.66,Cash
+671,2025-06-20,C0024,Corporate,Qom,Furniture,Standing Desk,2,305.92,0.1,550.66,74.66,Bank Transfer
+223,2025-06-21,C0035,Small Business,Yazd,Office Supplies,Pen Set,6,5.04,0.05,28.73,7.73,Bank Transfer
+659,2025-06-21,C0119,Small Business,Shiraz,Office Supplies,Printer Paper,3,7.18,0.0,21.54,6.54,Cash
+681,2025-06-21,C0095,Small Business,Isfahan,Technology,Wireless Mouse,1,17.1,0.1,15.39,4.39,Digital Wallet
+356,2025-06-22,C0203,Small Business,Yazd,Office Supplies,Printer Paper,1,7.64,0.0,7.64,2.64,Bank Transfer
+392,2025-06-22,C0167,Corporate,Shiraz,Office Supplies,Printer Paper,4,7.34,0.0,29.36,9.36,Cash
+999,2025-06-22,C0136,Small Business,Mashhad,Office Supplies,Pen Set,6,4.95,0.1,26.73,5.73,Bank Transfer
+102,2025-06-23,C0220,Small Business,Rasht,Furniture,Filing Cabinet,2,118.08,0.15,200.74,20.74,Bank Transfer
+178,2025-06-23,C0069,Consumer,Rasht,Technology,USB-C Hub,3,44.67,0.0,134.01,47.01,Credit Card
+365,2025-06-23,C0168,Consumer,Ahvaz,Furniture,Side Table,4,64.85,0.1,233.46,21.46,Digital Wallet
+719,2025-06-23,C0142,Consumer,Mashhad,Furniture,Office Chair,3,118.14,0.15,301.26,-7.74,Credit Card
+751,2025-06-23,C0109,Small Business,Yazd,Technology,Headphones,4,55.79,0.05,212.0,52.0,Bank Transfer
+926,2025-06-23,C0177,Small Business,Mashhad,Technology,USB-C Hub,2,44.41,0.1,79.94,21.94,Bank Transfer
+97,2025-06-24,C0151,Small Business,Yazd,Furniture,Standing Desk,4,272.65,0.0,1090.6,138.6,Cash
+903,2025-06-24,C0085,Small Business,Ahvaz,Technology,USB-C Hub,3,43.17,0.2,103.61,16.61,Bank Transfer
+285,2025-06-25,C0185,Small Business,Yazd,Office Supplies,Desk Organizer,2,15.0,0.0,30.0,8.0,Bank Transfer
+395,2025-06-25,C0172,Corporate,Qom,Furniture,Bookshelf,3,95.54,0.1,257.96,26.96,Bank Transfer
+957,2025-06-25,C0064,Small Business,Shiraz,Technology,Keyboard,2,33.27,0.15,56.56,16.56,Digital Wallet
+235,2025-06-26,C0121,Consumer,Mashhad,Furniture,Office Chair,2,135.12,0.0,270.24,64.24,Digital Wallet
+68,2025-06-27,C0004,Corporate,Yazd,Furniture,Filing Cabinet,3,114.02,0.0,342.06,72.06,Credit Card
+422,2025-06-27,C0157,Consumer,Tehran,Furniture,Filing Cabinet,1,118.86,0.15,101.03,11.03,Cash
+527,2025-06-27,C0106,Corporate,Isfahan,Office Supplies,Desk Lamp,1,26.34,0.0,26.34,7.34,Bank Transfer
+148,2025-06-28,C0155,Consumer,Tabriz,Office Supplies,Desk Organizer,1,15.29,0.0,15.29,4.29,Cash
+316,2025-06-29,C0064,Small Business,Ahvaz,Office Supplies,Printer Paper,3,7.25,0.0,21.75,6.75,Bank Transfer
+852,2025-06-29,C0036,Small Business,Rasht,Office Supplies,Printer Paper,3,7.16,0.15,18.26,3.26,Cash
+151,2025-06-30,C0213,Corporate,Tabriz,Furniture,Office Chair,1,116.28,0.05,110.47,7.47,Credit Card
+437,2025-06-30,C0173,Small Business,Qom,Furniture,Filing Cabinet,2,115.26,0.2,184.42,4.42,Bank Transfer
+650,2025-06-30,C0078,Small Business,Ahvaz,Office Supplies,Printer Paper,1,7.19,0.1,6.47,1.47,Bank Transfer
+743,2025-06-30,C0018,Consumer,Ahvaz,Technology,Headphones,3,58.63,0.1,158.3,38.3,Credit Card
+72,2025-07-01,C0143,Consumer,Qom,Office Supplies,Printer Paper,1,7.55,0.1,6.79,1.79,Cash
+177,2025-07-02,C0103,Small Business,Yazd,Technology,Monitor,1,144.8,0.1,130.32,13.32,Digital Wallet
+732,2025-07-02,C0092,Consumer,Mashhad,Technology,Wireless Mouse,1,19.52,0.05,18.54,7.54,Bank Transfer
+805,2025-07-02,C0038,Consumer,Karaj,Furniture,Side Table,2,69.7,0.05,132.43,26.43,Credit Card
+368,2025-07-04,C0123,Consumer,Tabriz,Technology,USB-C Hub,1,43.37,0.15,36.86,7.86,Credit Card
+448,2025-07-04,C0144,Small Business,Tehran,Office Supplies,Desk Organizer,5,16.09,0.1,72.41,17.41,Credit Card
+558,2025-07-04,C0073,Small Business,Tehran,Office Supplies,Pen Set,5,4.63,0.0,23.15,5.65,Cash
+204,2025-07-05,C0072,Small Business,Ahvaz,Furniture,Standing Desk,1,296.13,0.05,281.32,43.32,Credit Card
+477,2025-07-05,C0030,Corporate,Yazd,Furniture,Office Chair,3,122.43,0.05,348.93,39.93,Digital Wallet
+512,2025-07-06,C0176,Consumer,Tabriz,Office Supplies,Printer Paper,2,7.67,0.05,14.57,4.57,Bank Transfer
+766,2025-07-06,C0216,Small Business,Shiraz,Office Supplies,Desk Organizer,2,16.99,0.15,28.88,6.88,Bank Transfer
+290,2025-07-07,C0136,Small Business,Karaj,Office Supplies,Desk Organizer,2,17.2,0.0,34.4,12.4,Digital Wallet
+229,2025-07-08,C0192,Small Business,Karaj,Furniture,Bookshelf,1,90.02,0.0,90.02,13.02,Digital Wallet
+385,2025-07-08,C0062,Corporate,Yazd,Office Supplies,Desk Lamp,2,28.15,0.15,47.85,9.85,Digital Wallet
+782,2025-07-08,C0190,Small Business,Tehran,Office Supplies,Notebook Pack,2,7.41,0.15,12.6,2.6,Cash
+38,2025-07-09,C0204,Consumer,Karaj,Furniture,Side Table,1,63.41,0.0,63.41,10.41,Cash
+723,2025-07-09,C0115,Small Business,Tabriz,Office Supplies,Printer Paper,1,6.83,0.0,6.83,1.83,Cash
+910,2025-07-09,C0112,Small Business,Tabriz,Office Supplies,Desk Organizer,5,17.59,0.2,70.36,15.36,Credit Card
+310,2025-07-10,C0194,Consumer,Rasht,Furniture,Bookshelf,1,99.81,0.1,89.83,12.83,Credit Card
+507,2025-07-10,C0071,Corporate,Isfahan,Furniture,Standing Desk,2,302.81,0.2,484.5,8.5,Bank Transfer
+731,2025-07-11,C0038,Corporate,Yazd,Furniture,Side Table,1,66.61,0.0,66.61,13.61,Cash
+139,2025-07-12,C0199,Small Business,Ahvaz,Office Supplies,Pen Set,1,5.25,0.0,5.25,1.75,Credit Card
+390,2025-07-12,C0212,Small Business,Rasht,Office Supplies,Pen Set,1,5.21,0.05,4.95,1.45,Credit Card
+475,2025-07-12,C0203,Corporate,Ahvaz,Technology,Headphones,2,56.96,0.15,96.83,16.83,Credit Card
+663,2025-07-12,C0048,Corporate,Mashhad,Furniture,Side Table,3,61.1,0.0,183.3,24.3,Digital Wallet
+882,2025-07-12,C0003,Consumer,Yazd,Furniture,Standing Desk,2,298.52,0.15,507.48,31.48,Bank Transfer
+358,2025-07-13,C0147,Corporate,Ahvaz,Office Supplies,Printer Paper,1,7.64,0.1,6.88,1.88,Credit Card
+444,2025-07-13,C0217,Corporate,Tehran,Technology,USB-C Hub,1,39.86,0.0,39.86,10.86,Bank Transfer
+962,2025-07-13,C0195,Consumer,Yazd,Technology,USB-C Hub,2,44.2,0.05,83.98,25.98,Credit Card
+981,2025-07-13,C0001,Corporate,Rasht,Furniture,Office Chair,6,133.14,0.15,679.01,61.01,Cash
+657,2025-07-14,C0004,Corporate,Yazd,Furniture,Filing Cabinet,2,118.43,0.0,236.86,56.86,Digital Wallet
+964,2025-07-14,C0019,Corporate,Isfahan,Office Supplies,Printer Paper,2,7.2,0.0,14.4,4.4,Digital Wallet
+348,2025-07-15,C0145,Small Business,Karaj,Furniture,Standing Desk,2,274.94,0.1,494.89,18.89,Digital Wallet
+642,2025-07-15,C0143,Corporate,Karaj,Office Supplies,Desk Lamp,1,25.52,0.0,25.52,6.52,Digital Wallet
+919,2025-07-15,C0022,Corporate,Qom,Technology,Keyboard,2,29.88,0.0,59.76,19.76,Credit Card
+928,2025-07-15,C0085,Small Business,Yazd,Technology,USB-C Hub,1,42.23,0.0,42.23,13.23,Bank Transfer
+940,2025-07-15,C0030,Small Business,Isfahan,Office Supplies,Pen Set,4,4.61,0.0,18.44,4.44,Bank Transfer
+953,2025-07-15,C0006,Small Business,Tabriz,Furniture,Bookshelf,2,87.63,0.1,157.73,3.73,Bank Transfer
+963,2025-07-15,C0040,Small Business,Isfahan,Office Supplies,Notebook Pack,3,8.22,0.15,20.96,5.96,Bank Transfer
+313,2025-07-16,C0098,Consumer,Isfahan,Technology,Wireless Mouse,1,17.53,0.0,17.53,6.53,Credit Card
+704,2025-07-16,C0144,Small Business,Tabriz,Office Supplies,Pen Set,2,4.76,0.0,9.52,2.52,Cash
+362,2025-07-17,C0097,Corporate,Qom,Office Supplies,Pen Set,5,5.04,0.15,21.42,3.92,Digital Wallet
+967,2025-07-17,C0193,Small Business,Karaj,Furniture,Bookshelf,1,91.76,0.05,87.17,10.17,Digital Wallet
+271,2025-07-18,C0044,Small Business,Rasht,Technology,Headphones,4,59.33,0.2,189.86,29.86,Cash
+319,2025-07-18,C0198,Consumer,Tehran,Furniture,Filing Cabinet,1,116.3,0.1,104.67,14.67,Credit Card
+473,2025-07-18,C0027,Small Business,Qom,Office Supplies,Pen Set,4,5.18,0.0,20.72,6.72,Bank Transfer
+576,2025-07-18,C0028,Consumer,Mashhad,Furniture,Standing Desk,3,275.76,0.15,703.19,-10.81,Digital Wallet
+863,2025-07-18,C0114,Small Business,Mashhad,Technology,USB-C Hub,1,43.71,0.0,43.71,14.71,Credit Card
+993,2025-07-18,C0033,Small Business,Ahvaz,Office Supplies,Printer Paper,3,7.62,0.1,20.57,5.57,Cash
+469,2025-07-20,C0131,Consumer,Rasht,Technology,Headphones,3,58.21,0.0,174.63,54.63,Bank Transfer
+509,2025-07-21,C0081,Small Business,Tehran,Furniture,Bookshelf,2,96.26,0.0,192.52,38.52,Credit Card
+566,2025-07-21,C0141,Corporate,Mashhad,Technology,Keyboard,1,33.73,0.05,32.04,12.04,Credit Card
+579,2025-07-21,C0078,Consumer,Qom,Furniture,Bookshelf,1,93.48,0.1,84.13,7.13,Bank Transfer
+937,2025-07-21,C0161,Small Business,Mashhad,Furniture,Office Chair,1,121.16,0.15,102.99,-0.01,Credit Card
+147,2025-07-22,C0163,Consumer,Qom,Office Supplies,Printer Paper,1,6.54,0.1,5.89,0.89,Cash
+966,2025-07-22,C0019,Corporate,Tehran,Furniture,Standing Desk,2,307.37,0.0,614.74,138.74,Credit Card
+122,2025-07-23,C0024,Small Business,Shiraz,Office Supplies,Desk Organizer,5,17.09,0.2,68.36,13.36,Credit Card
+184,2025-07-23,C0128,Small Business,Rasht,Office Supplies,Printer Paper,1,7.37,0.0,7.37,2.37,Credit Card
+222,2025-07-23,C0010,Consumer,Mashhad,Office Supplies,Desk Organizer,5,17.39,0.2,69.56,14.56,Credit Card
+276,2025-07-23,C0201,Consumer,Karaj,Office Supplies,Printer Paper,3,7.66,0.1,20.68,5.68,Digital Wallet
+508,2025-07-23,C0139,Consumer,Qom,Technology,Headphones,1,57.78,0.05,54.89,14.89,Bank Transfer
+19,2025-07-24,C0058,Consumer,Karaj,Furniture,Standing Desk,2,263.7,0.05,501.03,25.03,Credit Card
+567,2025-07-24,C0144,Consumer,Yazd,Furniture,Filing Cabinet,3,103.87,0.0,311.61,41.61,Digital Wallet
+906,2025-07-24,C0030,Consumer,Mashhad,Technology,Wireless Mouse,1,16.66,0.0,16.66,5.66,Digital Wallet
+417,2025-07-25,C0205,Corporate,Isfahan,Office Supplies,Pen Set,1,5.37,0.0,5.37,1.87,Credit Card
+633,2025-07-25,C0124,Corporate,Tabriz,Furniture,Filing Cabinet,1,104.35,0.0,104.35,14.35,Bank Transfer
+720,2025-07-25,C0165,Consumer,Ahvaz,Furniture,Bookshelf,2,88.34,0.0,176.68,22.68,Cash
+793,2025-07-25,C0044,Small Business,Tabriz,Furniture,Filing Cabinet,2,120.17,0.0,240.34,60.34,Credit Card
+48,2025-07-27,C0156,Small Business,Karaj,Furniture,Office Chair,1,132.68,0.0,132.68,29.68,Digital Wallet
+260,2025-07-27,C0044,Consumer,Yazd,Office Supplies,Pen Set,2,4.61,0.0,9.22,2.22,Digital Wallet
+717,2025-07-27,C0190,Small Business,Qom,Office Supplies,Desk Organizer,5,15.17,0.15,64.47,9.47,Bank Transfer
+774,2025-07-27,C0080,Corporate,Yazd,Technology,Wireless Mouse,1,19.14,0.0,19.14,8.14,Digital Wallet
+220,2025-07-28,C0083,Corporate,Tehran,Furniture,Filing Cabinet,2,120.29,0.0,240.58,60.58,Credit Card
+777,2025-07-28,C0061,Consumer,Ahvaz,Office Supplies,Notebook Pack,2,8.57,0.15,14.57,4.57,Credit Card
+155,2025-07-29,C0085,Consumer,Qom,Office Supplies,Desk Lamp,1,26.47,0.1,23.82,4.82,Digital Wallet
+190,2025-07-29,C0120,Small Business,Qom,Furniture,Office Chair,1,116.67,0.0,116.67,13.67,Bank Transfer
+589,2025-07-29,C0052,Consumer,Tabriz,Technology,Monitor,5,150.92,0.0,754.6,169.6,Cash
+134,2025-07-30,C0154,Corporate,Karaj,Office Supplies,Pen Set,4,5.47,0.1,19.69,5.69,Credit Card
+255,2025-07-31,C0117,Corporate,Tehran,Technology,Keyboard,1,30.7,0.0,30.7,10.7,Digital Wallet
+503,2025-07-31,C0074,Consumer,Rasht,Office Supplies,Desk Lamp,2,26.12,0.1,47.02,9.02,Bank Transfer
+557,2025-07-31,C0140,Consumer,Rasht,Furniture,Filing Cabinet,4,105.97,0.0,423.88,63.88,Bank Transfer
+611,2025-07-31,C0164,Consumer,Mashhad,Technology,Monitor,1,138.94,0.15,118.1,1.1,Bank Transfer
+618,2025-07-31,C0078,Consumer,Qom,Technology,USB-C Hub,4,44.91,0.0,179.64,63.64,Bank Transfer
+58,2025-08-01,C0179,Consumer,Ahvaz,Technology,Keyboard,4,33.87,0.0,135.48,55.48,Digital Wallet
+120,2025-08-01,C0072,Consumer,Karaj,Furniture,Office Chair,4,136.13,0.1,490.07,78.07,Cash
+431,2025-08-01,C0151,Small Business,Isfahan,Technology,Headphones,1,58.14,0.15,49.42,9.42,Digital Wallet
+868,2025-08-01,C0026,Small Business,Isfahan,Technology,Headphones,1,54.56,0.0,54.56,14.56,Bank Transfer
+246,2025-08-02,C0166,Consumer,Yazd,Furniture,Side Table,1,62.18,0.0,62.18,9.18,Bank Transfer
+382,2025-08-02,C0190,Corporate,Qom,Furniture,Office Chair,1,133.54,0.0,133.54,30.54,Bank Transfer
+710,2025-08-02,C0189,Small Business,Tehran,Furniture,Side Table,5,64.72,0.05,307.42,42.42,Bank Transfer
+737,2025-08-02,C0090,Corporate,Karaj,Office Supplies,Notebook Pack,1,7.39,0.0,7.39,2.39,Cash
+856,2025-08-02,C0181,Small Business,Qom,Technology,Keyboard,2,32.08,0.05,60.95,20.95,Credit Card
+293,2025-08-03,C0138,Small Business,Isfahan,Furniture,Bookshelf,2,95.72,0.05,181.87,27.87,Cash
+846,2025-08-03,C0089,Consumer,Mashhad,Office Supplies,Desk Lamp,4,26.36,0.1,94.9,18.9,Cash
+321,2025-08-05,C0072,Consumer,Mashhad,Furniture,Filing Cabinet,1,113.4,0.05,107.73,17.73,Credit Card
+438,2025-08-05,C0015,Consumer,Mashhad,Technology,Headphones,1,53.91,0.0,53.91,13.91,Cash
+594,2025-08-05,C0119,Small Business,Yazd,Office Supplies,Desk Lamp,5,29.23,0.1,131.53,36.53,Credit Card
+775,2025-08-05,C0203,Corporate,Qom,Furniture,Office Chair,1,115.66,0.0,115.66,12.66,Cash
+75,2025-08-06,C0065,Consumer,Tabriz,Furniture,Side Table,1,62.97,0.1,56.67,3.67,Cash
+487,2025-08-06,C0073,Small Business,Qom,Technology,Monitor,2,155.82,0.0,311.64,77.64,Digital Wallet
+746,2025-08-06,C0032,Corporate,Tabriz,Technology,Headphones,1,63.64,0.0,63.64,23.64,Cash
+606,2025-08-07,C0071,Corporate,Qom,Furniture,Office Chair,1,130.63,0.0,130.63,27.63,Digital Wallet
+960,2025-08-07,C0046,Small Business,Shiraz,Furniture,Filing Cabinet,1,106.05,0.1,95.44,5.44,Bank Transfer
+762,2025-08-08,C0061,Small Business,Mashhad,Office Supplies,Printer Paper,2,6.75,0.0,13.5,3.5,Credit Card
+985,2025-08-08,C0037,Small Business,Ahvaz,Office Supplies,Notebook Pack,3,7.64,0.0,22.92,7.92,Credit Card
+46,2025-08-09,C0077,Small Business,Mashhad,Technology,Monitor,2,136.65,0.1,245.97,11.97,Digital Wallet
+131,2025-08-09,C0187,Consumer,Karaj,Office Supplies,Desk Organizer,2,15.87,0.15,26.98,4.98,Digital Wallet
+179,2025-08-09,C0170,Corporate,Mashhad,Furniture,Bookshelf,2,88.77,0.0,177.54,23.54,Digital Wallet
+203,2025-08-09,C0103,Consumer,Ahvaz,Technology,Monitor,3,142.95,0.1,385.96,34.96,Cash
+275,2025-08-09,C0052,Corporate,Karaj,Furniture,Side Table,1,70.88,0.0,70.88,17.88,Cash
+282,2025-08-09,C0143,Small Business,Ahvaz,Technology,Wireless Mouse,1,18.98,0.0,18.98,7.98,Cash
+584,2025-08-09,C0185,Consumer,Isfahan,Technology,Headphones,5,59.18,0.0,295.9,95.9,Bank Transfer
+757,2025-08-09,C0010,Consumer,Isfahan,Technology,USB-C Hub,2,41.99,0.15,71.38,13.38,Bank Transfer
+802,2025-08-09,C0081,Corporate,Isfahan,Office Supplies,Printer Paper,2,6.77,0.1,12.19,2.19,Bank Transfer
+69,2025-08-10,C0167,Corporate,Ahvaz,Office Supplies,Pen Set,3,5.26,0.05,14.99,4.49,Digital Wallet
+133,2025-08-10,C0144,Small Business,Karaj,Technology,Monitor,4,148.71,0.05,565.1,97.1,Credit Card
+878,2025-08-10,C0088,Small Business,Mashhad,Technology,Headphones,2,62.59,0.15,106.4,26.4,Digital Wallet
+889,2025-08-10,C0133,Consumer,Shiraz,Office Supplies,Printer Paper,1,7.06,0.05,6.71,1.71,Credit Card
+14,2025-08-11,C0129,Consumer,Qom,Technology,USB-C Hub,1,44.08,0.1,39.67,10.67,Credit Card
+815,2025-08-11,C0174,Consumer,Isfahan,Furniture,Filing Cabinet,1,120.47,0.05,114.45,24.45,Digital Wallet
+845,2025-08-11,C0148,Consumer,Qom,Technology,USB-C Hub,3,43.49,0.1,117.42,30.42,Bank Transfer
+988,2025-08-11,C0197,Corporate,Shiraz,Furniture,Office Chair,1,135.31,0.15,115.01,12.01,Bank Transfer
+161,2025-08-13,C0157,Corporate,Yazd,Technology,USB-C Hub,1,45.97,0.1,41.37,12.37,Cash
+241,2025-08-13,C0129,Corporate,Shiraz,Technology,Headphones,1,53.95,0.15,45.86,5.86,Bank Transfer
+457,2025-08-13,C0057,Consumer,Rasht,Office Supplies,Pen Set,4,4.74,0.0,18.96,4.96,Bank Transfer
+590,2025-08-13,C0110,Corporate,Tehran,Furniture,Filing Cabinet,3,118.77,0.15,302.86,32.86,Digital Wallet
+832,2025-08-13,C0155,Small Business,Yazd,Technology,Headphones,1,56.9,0.15,48.36,8.36,Cash
+571,2025-08-14,C0219,Consumer,Tabriz,Technology,Keyboard,1,33.8,0.0,33.8,13.8,Credit Card
+37,2025-08-15,C0177,Consumer,Qom,Furniture,Filing Cabinet,2,119.91,0.0,239.82,59.82,Credit Card
+49,2025-08-15,C0189,Consumer,Tabriz,Office Supplies,Desk Organizer,2,17.48,0.1,31.46,9.46,Bank Transfer
+538,2025-08-15,C0171,Consumer,Yazd,Technology,Wireless Mouse,1,16.86,0.1,15.17,4.17,Digital Wallet
+738,2025-08-15,C0008,Small Business,Tabriz,Furniture,Side Table,3,68.11,0.0,204.33,45.33,Cash
+784,2025-08-15,C0066,Corporate,Tabriz,Office Supplies,Notebook Pack,4,8.77,0.0,35.08,15.08,Cash
+844,2025-08-15,C0087,Corporate,Rasht,Technology,Wireless Mouse,3,16.79,0.05,47.85,14.85,Cash
+944,2025-08-15,C0184,Small Business,Tabriz,Furniture,Office Chair,4,129.42,0.15,440.03,28.03,Digital Wallet
+121,2025-08-16,C0140,Small Business,Karaj,Office Supplies,Desk Organizer,4,16.69,0.0,66.76,22.76,Credit Card
+724,2025-08-16,C0109,Small Business,Rasht,Furniture,Filing Cabinet,3,117.15,0.0,351.45,81.45,Cash
+98,2025-08-17,C0117,Corporate,Shiraz,Furniture,Filing Cabinet,1,111.96,0.05,106.36,16.36,Cash
+283,2025-08-17,C0039,Corporate,Tehran,Office Supplies,Pen Set,2,5.22,0.1,9.4,2.4,Digital Wallet
+668,2025-08-17,C0171,Corporate,Mashhad,Technology,USB-C Hub,1,45.69,0.1,41.12,12.12,Cash
+874,2025-08-17,C0044,Consumer,Qom,Technology,Headphones,1,57.26,0.2,45.81,5.81,Digital Wallet
+168,2025-08-18,C0039,Small Business,Ahvaz,Furniture,Office Chair,4,119.85,0.0,479.4,67.4,Digital Wallet
+547,2025-08-19,C0130,Corporate,Isfahan,Office Supplies,Printer Paper,2,7.42,0.05,14.1,4.1,Credit Card
+596,2025-08-19,C0117,Consumer,Mashhad,Technology,Keyboard,2,34.6,0.15,58.82,18.82,Bank Transfer
+862,2025-08-19,C0160,Small Business,Ahvaz,Furniture,Filing Cabinet,1,102.97,0.1,92.67,2.67,Digital Wallet
+925,2025-08-19,C0189,Consumer,Yazd,Furniture,Office Chair,1,117.89,0.05,112.0,9.0,Bank Transfer
+127,2025-08-20,C0169,Small Business,Mashhad,Furniture,Bookshelf,5,100.79,0.0,503.95,118.95,Digital Wallet
+440,2025-08-20,C0191,Small Business,Qom,Technology,Headphones,4,62.39,0.1,224.6,64.6,Digital Wallet
+592,2025-08-20,C0189,Consumer,Qom,Office Supplies,Notebook Pack,4,8.13,0.0,32.52,12.52,Digital Wallet
+197,2025-08-21,C0088,Small Business,Isfahan,Technology,Wireless Mouse,1,18.06,0.05,17.16,6.16,Bank Transfer
+602,2025-08-21,C0141,Corporate,Ahvaz,Office Supplies,Pen Set,1,4.82,0.1,4.34,0.84,Cash
+897,2025-08-21,C0087,Small Business,Tehran,Office Supplies,Pen Set,3,5.16,0.15,13.16,2.66,Digital Wallet
+96,2025-08-22,C0035,Consumer,Mashhad,Furniture,Bookshelf,2,96.09,0.15,163.35,9.35,Digital Wallet
+605,2025-08-22,C0083,Corporate,Rasht,Furniture,Side Table,1,68.79,0.0,68.79,15.79,Credit Card
+935,2025-08-24,C0117,Corporate,Mashhad,Office Supplies,Desk Lamp,1,27.98,0.0,27.98,8.98,Digital Wallet
+62,2025-08-25,C0087,Corporate,Mashhad,Technology,Wireless Mouse,1,18.03,0.0,18.03,7.03,Digital Wallet
+107,2025-08-25,C0120,Corporate,Qom,Furniture,Standing Desk,2,302.9,0.1,545.22,69.22,Cash
+163,2025-08-25,C0052,Small Business,Isfahan,Office Supplies,Pen Set,2,4.75,0.05,9.03,2.03,Bank Transfer
+278,2025-08-25,C0210,Corporate,Yazd,Furniture,Bookshelf,2,99.25,0.0,198.5,44.5,Cash
+924,2025-08-25,C0179,Corporate,Shiraz,Office Supplies,Notebook Pack,1,8.47,0.0,8.47,3.47,Digital Wallet
+71,2025-08-26,C0084,Consumer,Yazd,Furniture,Side Table,3,65.58,0.0,196.74,37.74,Cash
+332,2025-08-26,C0188,Small Business,Shiraz,Office Supplies,Desk Lamp,6,28.61,0.2,137.33,23.33,Cash
+339,2025-08-26,C0181,Small Business,Ahvaz,Office Supplies,Notebook Pack,1,7.8,0.15,6.63,1.63,Credit Card
+519,2025-08-26,C0108,Small Business,Ahvaz,Furniture,Bookshelf,4,103.28,0.1,371.81,63.81,Digital Wallet
+65,2025-08-27,C0192,Small Business,Tabriz,Furniture,Standing Desk,3,288.21,0.0,864.63,150.63,Cash
+70,2025-08-27,C0023,Corporate,Yazd,Office Supplies,Desk Lamp,1,28.88,0.15,24.55,5.55,Cash
+199,2025-08-27,C0099,Small Business,Rasht,Technology,Monitor,2,134.72,0.0,269.44,35.44,Cash
+445,2025-08-27,C0199,Small Business,Ahvaz,Furniture,Bookshelf,1,97.61,0.15,82.97,5.97,Bank Transfer
+648,2025-08-27,C0162,Small Business,Tabriz,Furniture,Office Chair,2,120.52,0.1,216.94,10.94,Bank Transfer
+694,2025-08-27,C0155,Consumer,Ahvaz,Office Supplies,Pen Set,1,5.4,0.0,5.4,1.9,Cash
+189,2025-08-28,C0184,Small Business,Yazd,Furniture,Bookshelf,2,92.69,0.0,185.38,31.38,Digital Wallet
+79,2025-08-29,C0123,Consumer,Tabriz,Office Supplies,Pen Set,1,4.83,0.2,3.86,0.36,Digital Wallet
+90,2025-08-29,C0085,Corporate,Yazd,Office Supplies,Pen Set,1,5.37,0.1,4.83,1.33,Bank Transfer
+399,2025-08-30,C0106,Consumer,Isfahan,Technology,Headphones,1,58.89,0.1,53.0,13.0,Cash
+573,2025-08-30,C0134,Corporate,Qom,Technology,Monitor,1,138.72,0.05,131.78,14.78,Digital Wallet
+942,2025-08-30,C0076,Consumer,Qom,Office Supplies,Desk Organizer,1,15.01,0.0,15.01,4.01,Digital Wallet
+484,2025-09-01,C0031,Consumer,Yazd,Furniture,Side Table,1,65.69,0.1,59.12,6.12,Cash
+516,2025-09-01,C0144,Small Business,Mashhad,Furniture,Office Chair,2,123.12,0.0,246.24,40.24,Bank Transfer
+59,2025-09-02,C0214,Corporate,Qom,Technology,Monitor,1,156.67,0.0,156.67,39.67,Cash
+529,2025-09-02,C0204,Consumer,Qom,Office Supplies,Notebook Pack,3,8.22,0.1,22.19,7.19,Bank Transfer
+932,2025-09-02,C0053,Corporate,Rasht,Furniture,Office Chair,2,119.65,0.15,203.41,-2.59,Digital Wallet
+978,2025-09-02,C0171,Small Business,Tehran,Office Supplies,Notebook Pack,1,8.74,0.0,8.74,3.74,Credit Card
+248,2025-09-03,C0049,Small Business,Tabriz,Technology,Monitor,1,138.93,0.15,118.09,1.09,Digital Wallet
+892,2025-09-03,C0065,Consumer,Tabriz,Office Supplies,Notebook Pack,2,7.84,0.1,14.11,4.11,Digital Wallet
+481,2025-09-04,C0211,Consumer,Ahvaz,Technology,Keyboard,4,34.02,0.1,122.47,42.47,Bank Transfer
+502,2025-09-04,C0174,Small Business,Shiraz,Technology,Monitor,1,159.35,0.1,143.41,26.41,Bank Transfer
+540,2025-09-04,C0056,Consumer,Shiraz,Furniture,Standing Desk,1,301.13,0.15,255.96,17.96,Digital Wallet
+987,2025-09-04,C0169,Small Business,Tabriz,Furniture,Side Table,1,68.61,0.0,68.61,15.61,Credit Card
+26,2025-09-06,C0001,Corporate,Mashhad,Office Supplies,Desk Organizer,4,15.19,0.15,51.65,7.65,Digital Wallet
+753,2025-09-06,C0126,Corporate,Shiraz,Furniture,Standing Desk,1,263.76,0.05,250.57,12.57,Cash
+60,2025-09-07,C0174,Corporate,Isfahan,Technology,Monitor,2,142.17,0.0,284.34,50.34,Digital Wallet
+401,2025-09-07,C0054,Consumer,Ahvaz,Office Supplies,Desk Organizer,1,16.02,0.0,16.02,5.02,Cash
+420,2025-09-07,C0004,Small Business,Qom,Technology,USB-C Hub,2,43.59,0.0,87.18,29.18,Cash
+451,2025-09-07,C0025,Consumer,Qom,Technology,Monitor,4,146.81,0.0,587.24,119.24,Credit Card
+562,2025-09-07,C0010,Small Business,Ahvaz,Furniture,Side Table,4,67.31,0.0,269.24,57.24,Digital Wallet
+631,2025-09-07,C0044,Corporate,Karaj,Technology,Wireless Mouse,2,18.05,0.0,36.1,14.1,Cash
+16,2025-09-08,C0079,Consumer,Tehran,Technology,Wireless Mouse,5,19.25,0.15,81.81,26.81,Cash
+253,2025-09-08,C0036,Small Business,Qom,Furniture,Filing Cabinet,2,108.17,0.1,194.71,14.71,Digital Wallet
+294,2025-09-08,C0092,Consumer,Yazd,Office Supplies,Desk Organizer,1,16.5,0.15,14.03,3.03,Cash
+402,2025-09-08,C0123,Corporate,Tehran,Technology,Keyboard,2,31.76,0.1,57.17,17.17,Credit Card
+765,2025-09-08,C0087,Consumer,Ahvaz,Technology,Keyboard,1,33.85,0.05,32.16,12.16,Bank Transfer
+814,2025-09-08,C0194,Corporate,Karaj,Office Supplies,Pen Set,2,4.98,0.05,9.46,2.46,Cash
+80,2025-09-09,C0145,Corporate,Tabriz,Technology,Headphones,2,54.92,0.0,109.84,29.84,Cash
+381,2025-09-09,C0191,Corporate,Karaj,Furniture,Office Chair,6,121.76,0.0,730.56,112.56,Bank Transfer
+446,2025-09-09,C0057,Consumer,Qom,Furniture,Side Table,1,63.52,0.1,57.17,4.17,Credit Card
+722,2025-09-09,C0093,Corporate,Isfahan,Office Supplies,Desk Lamp,2,29.26,0.2,46.82,8.82,Digital Wallet
+803,2025-09-09,C0014,Consumer,Isfahan,Technology,Headphones,4,61.69,0.1,222.08,62.08,Credit Card
+813,2025-09-09,C0025,Corporate,Qom,Office Supplies,Printer Paper,4,6.89,0.1,24.8,4.8,Cash
+353,2025-09-10,C0155,Consumer,Tehran,Furniture,Standing Desk,1,260.43,0.0,260.43,22.43,Digital Wallet
+730,2025-09-10,C0067,Small Business,Yazd,Technology,Headphones,3,59.26,0.1,160.0,40.0,Credit Card
+318,2025-09-11,C0004,Corporate,Karaj,Office Supplies,Notebook Pack,1,7.46,0.1,6.71,1.71,Cash
+655,2025-09-11,C0054,Small Business,Karaj,Office Supplies,Pen Set,1,5.17,0.05,4.91,1.41,Credit Card
+747,2025-09-11,C0030,Corporate,Mashhad,Office Supplies,Printer Paper,2,6.85,0.0,13.7,3.7,Digital Wallet
+760,2025-09-11,C0083,Consumer,Tehran,Furniture,Filing Cabinet,2,120.56,0.0,241.12,61.12,Credit Card
+795,2025-09-11,C0211,Corporate,Shiraz,Office Supplies,Desk Organizer,2,15.34,0.0,30.68,8.68,Digital Wallet
+831,2025-09-11,C0186,Consumer,Yazd,Furniture,Standing Desk,2,265.73,0.05,504.89,28.89,Bank Transfer
+915,2025-09-11,C0167,Consumer,Shiraz,Office Supplies,Printer Paper,2,7.44,0.1,13.39,3.39,Cash
+201,2025-09-12,C0056,Small Business,Karaj,Technology,Wireless Mouse,5,19.69,0.05,93.53,38.53,Credit Card
+685,2025-09-13,C0002,Small Business,Shiraz,Furniture,Office Chair,2,122.83,0.1,221.09,15.09,Cash
+144,2025-09-14,C0005,Corporate,Tabriz,Furniture,Standing Desk,1,259.73,0.15,220.77,-17.23,Bank Transfer
+206,2025-09-14,C0133,Corporate,Isfahan,Technology,Wireless Mouse,1,19.16,0.1,17.24,6.24,Cash
+212,2025-09-14,C0036,Small Business,Shiraz,Furniture,Filing Cabinet,4,102.43,0.1,368.75,8.75,Bank Transfer
+476,2025-09-14,C0055,Consumer,Isfahan,Technology,USB-C Hub,1,43.5,0.0,43.5,14.5,Cash
+595,2025-09-14,C0035,Corporate,Rasht,Technology,Keyboard,3,33.45,0.15,85.3,25.3,Bank Transfer
+620,2025-09-14,C0080,Corporate,Isfahan,Technology,Keyboard,1,34.47,0.05,32.75,12.75,Credit Card
+707,2025-09-14,C0075,Corporate,Ahvaz,Furniture,Office Chair,2,133.57,0.05,253.78,47.78,Bank Transfer
+972,2025-09-14,C0187,Consumer,Tabriz,Furniture,Filing Cabinet,2,116.1,0.1,208.98,28.98,Bank Transfer
+470,2025-09-15,C0043,Small Business,Isfahan,Technology,Keyboard,4,32.98,0.15,112.13,32.13,Digital Wallet
+736,2025-09-15,C0135,Small Business,Qom,Technology,Keyboard,3,33.41,0.05,95.22,35.22,Credit Card
+336,2025-09-16,C0034,Consumer,Mashhad,Technology,USB-C Hub,1,41.93,0.05,39.83,10.83,Bank Transfer
+423,2025-09-16,C0062,Corporate,Mashhad,Office Supplies,Pen Set,4,5.04,0.0,20.16,6.16,Credit Card
+447,2025-09-16,C0055,Small Business,Karaj,Technology,USB-C Hub,2,41.28,0.05,78.43,20.43,Bank Transfer
+556,2025-09-16,C0081,Small Business,Karaj,Office Supplies,Desk Organizer,2,17.41,0.1,31.34,9.34,Bank Transfer
+745,2025-09-16,C0028,Consumer,Karaj,Furniture,Filing Cabinet,1,109.91,0.1,98.92,8.92,Digital Wallet
+769,2025-09-16,C0065,Small Business,Qom,Office Supplies,Pen Set,3,4.97,0.0,14.91,4.41,Digital Wallet
+842,2025-09-16,C0162,Small Business,Shiraz,Technology,Wireless Mouse,1,17.9,0.1,16.11,5.11,Cash
+939,2025-09-16,C0119,Consumer,Tabriz,Office Supplies,Pen Set,2,5.06,0.0,10.12,3.12,Digital Wallet
+424,2025-09-17,C0118,Corporate,Ahvaz,Technology,Headphones,2,55.81,0.05,106.04,26.04,Digital Wallet
+500,2025-09-17,C0206,Small Business,Mashhad,Technology,Headphones,1,63.25,0.0,63.25,23.25,Bank Transfer
+188,2025-09-18,C0127,Consumer,Karaj,Technology,Wireless Mouse,6,17.33,0.1,93.58,27.58,Bank Transfer
+328,2025-09-18,C0094,Corporate,Isfahan,Technology,Wireless Mouse,4,16.71,0.0,66.84,22.84,Cash
+632,2025-09-18,C0167,Consumer,Mashhad,Technology,USB-C Hub,4,41.1,0.1,147.96,31.96,Digital Wallet
+645,2025-09-18,C0109,Small Business,Tehran,Office Supplies,Desk Lamp,4,25.94,0.0,103.76,27.76,Digital Wallet
+913,2025-09-18,C0170,Small Business,Tabriz,Furniture,Filing Cabinet,1,110.52,0.0,110.52,20.52,Cash
+914,2025-09-18,C0183,Corporate,Qom,Office Supplies,Desk Lamp,1,25.71,0.05,24.42,5.42,Digital Wallet
+322,2025-09-19,C0214,Small Business,Tabriz,Technology,Keyboard,2,33.09,0.0,66.18,26.18,Bank Transfer
+818,2025-09-20,C0146,Corporate,Karaj,Technology,Headphones,2,60.26,0.0,120.52,40.52,Bank Transfer
+918,2025-09-20,C0206,Corporate,Karaj,Furniture,Standing Desk,2,278.21,0.05,528.6,52.6,Bank Transfer
+50,2025-09-21,C0173,Corporate,Shiraz,Furniture,Side Table,1,68.59,0.15,58.3,5.3,Cash
+287,2025-09-22,C0060,Corporate,Isfahan,Technology,Headphones,1,63.37,0.05,60.2,20.2,Cash
+393,2025-09-22,C0170,Corporate,Isfahan,Technology,Wireless Mouse,3,18.5,0.15,47.17,14.17,Credit Card
+593,2025-09-22,C0199,Corporate,Yazd,Furniture,Office Chair,1,134.9,0.05,128.16,25.16,Cash
+621,2025-09-22,C0134,Consumer,Tehran,Furniture,Bookshelf,1,94.03,0.0,94.03,17.03,Bank Transfer
+898,2025-09-22,C0018,Small Business,Shiraz,Office Supplies,Desk Lamp,1,27.73,0.0,27.73,8.73,Cash
+498,2025-09-23,C0144,Small Business,Karaj,Technology,Wireless Mouse,5,18.91,0.05,89.82,34.82,Bank Transfer
+931,2025-09-23,C0029,Consumer,Qom,Technology,Keyboard,1,31.69,0.15,26.94,6.94,Digital Wallet
+615,2025-09-24,C0054,Small Business,Karaj,Office Supplies,Desk Lamp,3,27.44,0.0,82.32,25.32,Bank Transfer
+660,2025-09-24,C0018,Consumer,Rasht,Office Supplies,Desk Organizer,1,14.74,0.0,14.74,3.74,Credit Card
+958,2025-09-24,C0018,Consumer,Tehran,Office Supplies,Desk Organizer,2,17.23,0.0,34.46,12.46,Cash
+772,2025-09-25,C0196,Corporate,Rasht,Technology,Monitor,2,152.88,0.0,305.76,71.76,Digital Wallet
+778,2025-09-25,C0024,Consumer,Ahvaz,Furniture,Side Table,5,62.75,0.15,266.69,1.69,Credit Card
+598,2025-09-26,C0041,Corporate,Qom,Furniture,Filing Cabinet,3,113.32,0.2,271.97,1.97,Digital Wallet
+607,2025-09-26,C0162,Small Business,Tabriz,Technology,Keyboard,2,33.64,0.0,67.28,27.28,Digital Wallet
+661,2025-09-26,C0009,Consumer,Ahvaz,Technology,USB-C Hub,1,40.54,0.1,36.49,7.49,Credit Card
+142,2025-09-27,C0002,Consumer,Mashhad,Furniture,Standing Desk,1,287.81,0.0,287.81,49.81,Cash
+172,2025-09-27,C0121,Consumer,Rasht,Furniture,Side Table,3,60.04,0.05,171.11,12.11,Bank Transfer
+231,2025-09-27,C0016,Small Business,Qom,Office Supplies,Desk Lamp,3,27.58,0.0,82.74,25.74,Cash
+551,2025-09-27,C0019,Consumer,Shiraz,Furniture,Side Table,1,66.89,0.0,66.89,13.89,Digital Wallet
+794,2025-09-27,C0053,Consumer,Mashhad,Office Supplies,Pen Set,4,4.8,0.05,18.24,4.24,Bank Transfer
+816,2025-09-27,C0206,Corporate,Mashhad,Furniture,Side Table,1,60.73,0.05,57.69,4.69,Cash
+553,2025-09-28,C0133,Consumer,Tabriz,Technology,Wireless Mouse,4,17.26,0.0,69.04,25.04,Cash
+744,2025-09-28,C0002,Small Business,Tabriz,Technology,Keyboard,5,33.78,0.0,168.9,68.9,Cash
+830,2025-09-28,C0166,Corporate,Yazd,Technology,USB-C Hub,2,40.66,0.05,77.25,19.25,Credit Card
+314,2025-09-29,C0055,Small Business,Isfahan,Furniture,Office Chair,2,122.9,0.0,245.8,39.8,Digital Wallet
+350,2025-09-29,C0169,Consumer,Mashhad,Office Supplies,Desk Lamp,6,25.33,0.2,121.58,7.58,Credit Card
+698,2025-09-29,C0127,Consumer,Tabriz,Office Supplies,Pen Set,3,4.69,0.1,12.66,2.16,Credit Card
+733,2025-09-29,C0025,Small Business,Isfahan,Furniture,Office Chair,2,119.12,0.1,214.42,8.42,Bank Transfer
+843,2025-09-29,C0118,Small Business,Karaj,Office Supplies,Desk Organizer,1,17.36,0.05,16.49,5.49,Credit Card
+554,2025-09-30,C0046,Small Business,Qom,Office Supplies,Desk Organizer,1,16.36,0.1,14.72,3.72,Digital Wallet
+8,2025-10-01,C0164,Small Business,Qom,Furniture,Bookshelf,1,104.32,0.0,104.32,27.32,Cash
+162,2025-10-01,C0050,Corporate,Ahvaz,Technology,Monitor,5,156.99,0.1,706.46,121.46,Digital Wallet
+250,2025-10-01,C0120,Consumer,Yazd,Furniture,Standing Desk,1,302.09,0.0,302.09,64.09,Bank Transfer
+403,2025-10-01,C0136,Consumer,Tehran,Technology,Monitor,5,153.15,0.15,650.89,65.89,Credit Card
+534,2025-10-01,C0113,Small Business,Tehran,Technology,Keyboard,6,30.16,0.0,180.96,60.96,Cash
+675,2025-10-01,C0011,Corporate,Tabriz,Office Supplies,Notebook Pack,1,8.49,0.0,8.49,3.49,Cash
+24,2025-10-02,C0020,Corporate,Qom,Office Supplies,Desk Organizer,2,15.44,0.0,30.88,8.88,Credit Card
+116,2025-10-02,C0098,Small Business,Karaj,Technology,USB-C Hub,1,40.62,0.1,36.56,7.56,Credit Card
+373,2025-10-02,C0102,Small Business,Tehran,Furniture,Filing Cabinet,2,107.12,0.0,214.24,34.24,Cash
+119,2025-10-03,C0139,Corporate,Ahvaz,Technology,USB-C Hub,2,44.26,0.1,79.67,21.67,Cash
+245,2025-10-03,C0207,Corporate,Tehran,Office Supplies,Desk Organizer,4,16.76,0.0,67.04,23.04,Digital Wallet
+881,2025-10-03,C0114,Small Business,Tabriz,Technology,Wireless Mouse,2,19.2,0.15,32.64,10.64,Bank Transfer
+298,2025-10-06,C0140,Consumer,Rasht,Office Supplies,Desk Lamp,4,28.33,0.0,113.32,37.32,Credit Card
+546,2025-10-06,C0142,Consumer,Tabriz,Office Supplies,Printer Paper,3,7.49,0.0,22.47,7.47,Cash
+55,2025-10-08,C0064,Small Business,Mashhad,Office Supplies,Desk Organizer,3,15.47,0.05,44.09,11.09,Digital Wallet
+811,2025-10-08,C0198,Corporate,Tabriz,Furniture,Filing Cabinet,1,105.95,0.0,105.95,15.95,Credit Card
+18,2025-10-09,C0139,Small Business,Shiraz,Technology,Monitor,2,158.57,0.1,285.43,51.43,Bank Transfer
+187,2025-10-09,C0180,Small Business,Isfahan,Furniture,Standing Desk,4,293.48,0.15,997.83,45.83,Bank Transfer
+493,2025-10-09,C0024,Consumer,Yazd,Furniture,Office Chair,1,115.12,0.2,92.1,-10.9,Digital Wallet
+625,2025-10-09,C0063,Consumer,Tabriz,Office Supplies,Printer Paper,1,6.8,0.1,6.12,1.12,Bank Transfer
+917,2025-10-09,C0059,Small Business,Tehran,Technology,Keyboard,3,32.43,0.0,97.29,37.29,Digital Wallet
+466,2025-10-10,C0212,Consumer,Qom,Technology,Keyboard,2,31.06,0.0,62.12,22.12,Cash
+549,2025-10-10,C0025,Small Business,Tabriz,Technology,Headphones,1,56.72,0.05,53.88,13.88,Credit Card
+13,2025-10-11,C0165,Corporate,Tabriz,Technology,Wireless Mouse,3,17.42,0.05,49.65,16.65,Bank Transfer
+459,2025-10-11,C0138,Small Business,Tabriz,Furniture,Bookshelf,1,97.6,0.0,97.6,20.6,Bank Transfer
+875,2025-10-12,C0075,Small Business,Isfahan,Office Supplies,Notebook Pack,1,8.55,0.05,8.12,3.12,Credit Card
+454,2025-10-13,C0116,Small Business,Rasht,Technology,Headphones,4,57.62,0.15,195.91,35.91,Digital Wallet
+792,2025-10-13,C0051,Corporate,Isfahan,Furniture,Side Table,2,71.2,0.15,121.04,15.04,Credit Card
+728,2025-10-14,C0077,Small Business,Yazd,Furniture,Filing Cabinet,1,104.25,0.1,93.83,3.83,Credit Card
+218,2025-10-15,C0063,Consumer,Qom,Furniture,Standing Desk,1,287.18,0.1,258.46,20.46,Cash
+259,2025-10-17,C0220,Small Business,Tehran,Technology,Keyboard,1,29.9,0.15,25.41,5.41,Credit Card
+464,2025-10-17,C0081,Consumer,Shiraz,Furniture,Standing Desk,3,266.1,0.2,638.64,-75.36,Digital Wallet
+490,2025-10-17,C0106,Small Business,Qom,Office Supplies,Desk Lamp,1,28.51,0.1,25.66,6.66,Digital Wallet
+861,2025-10-17,C0156,Consumer,Isfahan,Office Supplies,Printer Paper,3,7.35,0.05,20.95,5.95,Digital Wallet
+17,2025-10-18,C0137,Consumer,Isfahan,Technology,Wireless Mouse,3,19.73,0.15,50.31,17.31,Digital Wallet
+225,2025-10-18,C0212,Corporate,Qom,Furniture,Bookshelf,1,102.74,0.15,87.33,10.33,Bank Transfer
+264,2025-10-18,C0177,Small Business,Tabriz,Office Supplies,Desk Lamp,1,25.52,0.1,22.97,3.97,Bank Transfer
+713,2025-10-18,C0074,Consumer,Isfahan,Technology,Monitor,1,146.04,0.0,146.04,29.04,Bank Transfer
+613,2025-10-19,C0173,Corporate,Yazd,Furniture,Office Chair,4,133.76,0.0,535.04,123.04,Credit Card
+639,2025-10-19,C0089,Consumer,Ahvaz,Furniture,Standing Desk,5,293.78,0.15,1248.56,58.56,Credit Card
+99,2025-10-20,C0122,Small Business,Rasht,Office Supplies,Desk Organizer,4,15.64,0.05,59.43,15.43,Digital Wallet
+232,2025-10-21,C0175,Consumer,Ahvaz,Furniture,Bookshelf,1,94.96,0.15,80.72,3.72,Digital Wallet
+302,2025-10-21,C0193,Corporate,Tehran,Office Supplies,Desk Lamp,6,25.3,0.1,136.62,22.62,Bank Transfer
+697,2025-10-21,C0197,Small Business,Tehran,Technology,USB-C Hub,6,42.2,0.0,253.2,79.2,Digital Wallet
+992,2025-10-21,C0001,Corporate,Tehran,Office Supplies,Desk Organizer,4,16.38,0.2,52.42,8.42,Cash
+145,2025-10-22,C0104,Consumer,Karaj,Office Supplies,Desk Lamp,2,26.25,0.1,47.25,9.25,Cash
+990,2025-10-22,C0189,Small Business,Rasht,Furniture,Office Chair,2,131.14,0.0,262.28,56.28,Digital Wallet
+6,2025-10-23,C0021,Consumer,Tabriz,Technology,Wireless Mouse,1,17.5,0.0,17.5,6.5,Digital Wallet
+135,2025-10-23,C0090,Small Business,Karaj,Furniture,Bookshelf,1,101.89,0.05,96.8,19.8,Credit Card
+242,2025-10-23,C0134,Consumer,Rasht,Furniture,Standing Desk,1,307.28,0.15,261.19,23.19,Bank Transfer
+623,2025-10-23,C0082,Corporate,Tabriz,Office Supplies,Desk Organizer,1,15.52,0.0,15.52,4.52,Bank Transfer
+695,2025-10-23,C0056,Small Business,Yazd,Furniture,Bookshelf,1,95.77,0.15,81.4,4.4,Digital Wallet
+752,2025-10-25,C0092,Corporate,Ahvaz,Furniture,Standing Desk,3,305.14,0.15,778.11,64.11,Digital Wallet
+800,2025-10-25,C0120,Consumer,Tabriz,Technology,Monitor,1,142.25,0.05,135.14,18.14,Bank Transfer
+280,2025-10-26,C0140,Consumer,Karaj,Office Supplies,Desk Lamp,2,28.2,0.15,47.94,9.94,Credit Card
+343,2025-10-26,C0051,Small Business,Yazd,Furniture,Standing Desk,5,307.86,0.0,1539.3,349.3,Cash
+807,2025-10-26,C0064,Corporate,Tabriz,Technology,Headphones,3,62.97,0.0,188.91,68.91,Bank Transfer
+11,2025-10-27,C0131,Corporate,Tabriz,Office Supplies,Desk Lamp,2,29.69,0.0,59.38,21.38,Credit Card
+398,2025-10-27,C0150,Small Business,Ahvaz,Office Supplies,Pen Set,4,5.38,0.05,20.44,6.44,Credit Card
+819,2025-10-27,C0202,Consumer,Rasht,Technology,Headphones,1,58.19,0.1,52.37,12.37,Credit Card
+725,2025-10-28,C0135,Corporate,Tabriz,Furniture,Office Chair,1,137.24,0.0,137.24,34.24,Digital Wallet
+742,2025-10-28,C0192,Corporate,Ahvaz,Technology,Keyboard,3,30.28,0.0,90.84,30.84,Bank Transfer
+927,2025-10-28,C0085,Small Business,Ahvaz,Technology,Headphones,3,54.96,0.15,140.15,20.15,Digital Wallet
+20,2025-10-29,C0016,Consumer,Tabriz,Furniture,Bookshelf,2,99.5,0.0,199.0,45.0,Credit Card
+855,2025-10-29,C0163,Corporate,Yazd,Furniture,Side Table,3,66.64,0.15,169.93,10.93,Digital Wallet
+2,2025-10-30,C0007,Small Business,Shiraz,Office Supplies,Notebook Pack,1,8.09,0.0,8.09,3.09,Digital Wallet
+468,2025-10-30,C0121,Small Business,Isfahan,Technology,Wireless Mouse,2,19.8,0.05,37.62,15.62,Bank Transfer
+67,2025-10-31,C0154,Consumer,Ahvaz,Furniture,Bookshelf,1,101.94,0.1,91.75,14.75,Credit Card
+768,2025-10-31,C0054,Corporate,Tabriz,Office Supplies,Printer Paper,1,7.04,0.15,5.98,0.98,Bank Transfer
+570,2025-11-01,C0211,Corporate,Ahvaz,Furniture,Office Chair,3,122.87,0.0,368.61,59.61,Cash
+130,2025-11-02,C0180,Consumer,Qom,Furniture,Standing Desk,2,262.6,0.1,472.68,-3.32,Cash
+587,2025-11-02,C0123,Consumer,Qom,Technology,Keyboard,3,33.4,0.0,100.2,40.2,Digital Wallet
+798,2025-11-02,C0061,Corporate,Karaj,Office Supplies,Notebook Pack,1,7.84,0.0,7.84,2.84,Credit Card
+480,2025-11-03,C0022,Consumer,Yazd,Furniture,Office Chair,4,133.48,0.1,480.53,68.53,Digital Wallet
+748,2025-11-04,C0105,Corporate,Rasht,Furniture,Standing Desk,3,268.98,0.15,685.9,-28.1,Cash
+180,2025-11-05,C0187,Corporate,Ahvaz,Furniture,Filing Cabinet,1,110.05,0.05,104.55,14.55,Digital Wallet
+485,2025-11-05,C0134,Corporate,Karaj,Furniture,Office Chair,4,129.61,0.1,466.6,54.6,Credit Card
+183,2025-11-06,C0147,Consumer,Qom,Technology,USB-C Hub,5,44.41,0.0,222.05,77.05,Bank Transfer
+980,2025-11-06,C0210,Consumer,Karaj,Office Supplies,Printer Paper,1,7.7,0.15,6.54,1.54,Digital Wallet
+141,2025-11-07,C0111,Consumer,Mashhad,Office Supplies,Pen Set,1,4.7,0.1,4.23,0.73,Digital Wallet
+137,2025-11-08,C0087,Corporate,Tehran,Furniture,Standing Desk,1,296.03,0.0,296.03,58.03,Cash
+880,2025-11-08,C0179,Small Business,Yazd,Office Supplies,Notebook Pack,4,7.95,0.1,28.62,8.62,Digital Wallet
+291,2025-11-09,C0045,Small Business,Mashhad,Office Supplies,Desk Lamp,1,27.07,0.0,27.07,8.07,Credit Card
+839,2025-11-09,C0162,Consumer,Shiraz,Furniture,Office Chair,4,117.37,0.0,469.48,57.48,Bank Transfer
+626,2025-11-10,C0173,Consumer,Tabriz,Office Supplies,Desk Lamp,2,27.13,0.0,54.26,16.26,Digital Wallet
+640,2025-11-10,C0141,Consumer,Tehran,Furniture,Filing Cabinet,4,102.44,0.15,348.3,-11.7,Bank Transfer
+649,2025-11-10,C0121,Small Business,Karaj,Technology,Monitor,2,145.25,0.0,290.5,56.5,Digital Wallet
+936,2025-11-10,C0118,Corporate,Isfahan,Technology,USB-C Hub,1,44.18,0.15,37.55,8.55,Credit Card
+152,2025-11-11,C0190,Consumer,Yazd,Furniture,Side Table,2,70.96,0.1,127.73,21.73,Cash
+346,2025-11-11,C0141,Corporate,Tehran,Furniture,Side Table,1,64.62,0.0,64.62,11.62,Credit Card
+609,2025-11-11,C0047,Small Business,Shiraz,Furniture,Filing Cabinet,2,110.95,0.1,199.71,19.71,Bank Transfer
+667,2025-11-11,C0019,Consumer,Ahvaz,Furniture,Office Chair,5,117.32,0.1,527.94,12.94,Bank Transfer
+884,2025-11-11,C0093,Consumer,Mashhad,Furniture,Standing Desk,3,307.0,0.0,921.0,207.0,Digital Wallet
+315,2025-11-12,C0193,Consumer,Ahvaz,Furniture,Filing Cabinet,4,103.19,0.0,412.76,52.76,Digital Wallet
+461,2025-11-12,C0014,Small Business,Yazd,Office Supplies,Desk Organizer,1,16.35,0.1,14.72,3.72,Credit Card
+904,2025-11-12,C0011,Corporate,Shiraz,Office Supplies,Pen Set,1,5.39,0.0,5.39,1.89,Credit Card
+912,2025-11-12,C0064,Consumer,Mashhad,Furniture,Bookshelf,4,89.94,0.0,359.76,51.76,Cash
+146,2025-11-13,C0151,Corporate,Qom,Office Supplies,Printer Paper,1,6.75,0.15,5.74,0.74,Credit Card
+837,2025-11-13,C0201,Corporate,Tehran,Technology,Wireless Mouse,2,19.78,0.05,37.58,15.58,Bank Transfer
+983,2025-11-13,C0164,Corporate,Tehran,Furniture,Filing Cabinet,2,101.26,0.1,182.27,2.27,Bank Transfer
+30,2025-11-14,C0067,Consumer,Karaj,Technology,USB-C Hub,3,41.03,0.05,116.94,29.94,Cash
+548,2025-11-14,C0138,Corporate,Shiraz,Office Supplies,Desk Lamp,1,28.04,0.1,25.24,6.24,Digital Wallet
+32,2025-11-15,C0090,Consumer,Shiraz,Furniture,Office Chair,1,120.97,0.0,120.97,17.97,Bank Transfer
+574,2025-11-15,C0170,Small Business,Tehran,Furniture,Bookshelf,3,93.84,0.1,253.37,22.37,Bank Transfer
+834,2025-11-15,C0045,Consumer,Isfahan,Technology,Monitor,3,146.0,0.0,438.0,87.0,Digital Wallet
+948,2025-11-16,C0028,Corporate,Karaj,Technology,Headphones,2,55.79,0.05,106.0,26.0,Cash
+15,2025-11-17,C0139,Small Business,Tehran,Office Supplies,Desk Lamp,2,28.55,0.0,57.1,19.1,Bank Transfer
+56,2025-11-17,C0086,Corporate,Qom,Technology,Monitor,2,139.52,0.1,251.14,17.14,Credit Card
+85,2025-11-17,C0069,Consumer,Tabriz,Furniture,Bookshelf,2,98.47,0.05,187.09,33.09,Credit Card
+103,2025-11-17,C0162,Small Business,Mashhad,Furniture,Filing Cabinet,4,102.55,0.0,410.2,50.2,Cash
+404,2025-11-17,C0027,Corporate,Qom,Furniture,Bookshelf,1,92.74,0.15,78.83,1.83,Bank Transfer
+452,2025-11-17,C0109,Consumer,Shiraz,Technology,Keyboard,3,34.42,0.1,92.93,32.93,Digital Wallet
+543,2025-11-17,C0028,Consumer,Yazd,Technology,Wireless Mouse,1,18.3,0.0,18.3,7.3,Cash
+112,2025-11-18,C0188,Consumer,Tabriz,Furniture,Office Chair,1,128.04,0.05,121.64,18.64,Bank Transfer
+149,2025-11-18,C0145,Small Business,Ahvaz,Office Supplies,Pen Set,3,5.0,0.1,13.5,3.0,Bank Transfer
+150,2025-11-18,C0204,Corporate,Ahvaz,Office Supplies,Desk Organizer,2,16.54,0.05,31.43,9.43,Credit Card
+196,2025-11-18,C0207,Small Business,Rasht,Furniture,Standing Desk,2,269.94,0.0,539.88,63.88,Bank Transfer
+175,2025-11-20,C0076,Consumer,Tehran,Technology,Keyboard,1,32.08,0.1,28.87,8.87,Cash
+693,2025-11-20,C0016,Corporate,Isfahan,Office Supplies,Printer Paper,1,7.31,0.0,7.31,2.31,Credit Card
+279,2025-11-21,C0097,Consumer,Yazd,Office Supplies,Desk Organizer,1,15.94,0.0,15.94,4.94,Digital Wallet
+458,2025-11-21,C0187,Small Business,Karaj,Technology,Monitor,3,154.15,0.15,393.08,42.08,Credit Card
+564,2025-11-21,C0145,Consumer,Karaj,Furniture,Filing Cabinet,1,107.52,0.05,102.14,12.14,Cash
+306,2025-11-22,C0110,Consumer,Yazd,Furniture,Standing Desk,4,277.64,0.1,999.5,47.5,Bank Transfer
+968,2025-11-22,C0189,Consumer,Shiraz,Furniture,Standing Desk,3,304.3,0.1,821.61,107.61,Digital Wallet
+977,2025-11-22,C0088,Consumer,Ahvaz,Technology,Wireless Mouse,1,17.46,0.0,17.46,6.46,Cash
+219,2025-11-23,C0175,Consumer,Tehran,Technology,Wireless Mouse,1,18.09,0.0,18.09,7.09,Cash
+533,2025-11-23,C0083,Consumer,Isfahan,Office Supplies,Desk Lamp,2,27.23,0.1,49.01,11.01,Credit Card
+899,2025-11-23,C0048,Consumer,Isfahan,Furniture,Standing Desk,1,288.89,0.05,274.45,36.45,Credit Card
+1,2025-11-24,C0027,Small Business,Qom,Technology,Wireless Mouse,3,17.01,0.0,51.03,18.03,Credit Card
+288,2025-11-24,C0116,Small Business,Rasht,Furniture,Filing Cabinet,2,118.69,0.1,213.64,33.64,Digital Wallet
+408,2025-11-24,C0028,Small Business,Tehran,Office Supplies,Desk Lamp,2,25.07,0.1,45.13,7.13,Credit Card
+905,2025-11-24,C0197,Corporate,Rasht,Technology,Keyboard,2,32.21,0.0,64.42,24.42,Cash
+656,2025-11-25,C0122,Small Business,Qom,Office Supplies,Notebook Pack,1,8.05,0.05,7.65,2.65,Cash
+128,2025-11-26,C0028,Corporate,Yazd,Technology,Wireless Mouse,6,17.94,0.15,91.49,25.49,Credit Card
+776,2025-11-26,C0081,Small Business,Mashhad,Technology,USB-C Hub,3,45.42,0.0,136.26,49.26,Credit Card
+158,2025-11-27,C0055,Corporate,Yazd,Furniture,Filing Cabinet,2,107.32,0.0,214.64,34.64,Cash
+261,2025-11-27,C0011,Consumer,Shiraz,Office Supplies,Desk Lamp,6,29.19,0.2,140.11,26.11,Digital Wallet
+614,2025-11-27,C0086,Corporate,Rasht,Technology,USB-C Hub,1,45.18,0.05,42.92,13.92,Credit Card
+95,2025-11-28,C0107,Corporate,Yazd,Technology,USB-C Hub,5,43.97,0.0,219.85,74.85,Cash
+389,2025-11-28,C0079,Small Business,Mashhad,Technology,Headphones,3,59.71,0.0,179.13,59.13,Digital Wallet
+453,2025-11-28,C0019,Consumer,Isfahan,Technology,Keyboard,1,29.66,0.1,26.69,6.69,Bank Transfer
+718,2025-11-28,C0147,Small Business,Isfahan,Furniture,Standing Desk,2,305.18,0.0,610.36,134.36,Digital Wallet
+532,2025-11-29,C0047,Consumer,Mashhad,Furniture,Side Table,3,69.79,0.05,198.9,39.9,Credit Card
+825,2025-11-29,C0049,Consumer,Mashhad,Technology,Keyboard,2,33.99,0.1,61.18,21.18,Digital Wallet
+848,2025-11-29,C0100,Small Business,Isfahan,Office Supplies,Desk Organizer,4,16.27,0.0,65.08,21.08,Bank Transfer
+221,2025-11-30,C0045,Corporate,Isfahan,Furniture,Bookshelf,2,103.42,0.1,186.16,32.16,Credit Card
+568,2025-11-30,C0063,Consumer,Mashhad,Furniture,Bookshelf,2,96.36,0.2,154.18,0.18,Digital Wallet
+237,2025-12-01,C0187,Consumer,Tehran,Office Supplies,Notebook Pack,1,8.12,0.05,7.71,2.71,Credit Card
+299,2025-12-01,C0210,Consumer,Yazd,Technology,Monitor,4,140.26,0.0,561.04,93.04,Credit Card
+583,2025-12-01,C0080,Small Business,Qom,Technology,Headphones,2,62.37,0.15,106.03,26.03,Cash
+676,2025-12-01,C0039,Small Business,Ahvaz,Furniture,Side Table,2,70.03,0.1,126.05,20.05,Cash
+729,2025-12-01,C0063,Consumer,Tabriz,Furniture,Standing Desk,2,292.27,0.05,555.31,79.31,Bank Transfer
+923,2025-12-01,C0054,Corporate,Shiraz,Furniture,Bookshelf,4,99.77,0.0,399.08,91.08,Digital Wallet
+303,2025-12-02,C0195,Small Business,Rasht,Technology,Keyboard,1,34.21,0.1,30.79,10.79,Digital Wallet
+394,2025-12-02,C0010,Small Business,Ahvaz,Office Supplies,Printer Paper,1,6.93,0.05,6.58,1.58,Cash
+427,2025-12-02,C0058,Corporate,Karaj,Furniture,Filing Cabinet,5,102.27,0.0,511.35,61.35,Digital Wallet
+489,2025-12-02,C0150,Corporate,Mashhad,Technology,Monitor,2,144.52,0.0,289.04,55.04,Digital Wallet
+497,2025-12-02,C0172,Corporate,Rasht,Technology,Keyboard,1,31.74,0.0,31.74,11.74,Cash
+712,2025-12-02,C0141,Corporate,Yazd,Furniture,Standing Desk,2,284.32,0.1,511.78,35.78,Bank Transfer
+92,2025-12-03,C0194,Corporate,Yazd,Furniture,Filing Cabinet,2,108.36,0.0,216.72,36.72,Credit Card
+428,2025-12-03,C0088,Corporate,Mashhad,Office Supplies,Pen Set,1,4.8,0.1,4.32,0.82,Bank Transfer
+110,2025-12-04,C0013,Small Business,Yazd,Office Supplies,Printer Paper,1,7.42,0.15,6.31,1.31,Bank Transfer
+256,2025-12-04,C0136,Small Business,Mashhad,Office Supplies,Notebook Pack,1,7.38,0.05,7.01,2.01,Bank Transfer
+492,2025-12-04,C0055,Small Business,Rasht,Technology,Keyboard,2,30.37,0.1,54.67,14.67,Bank Transfer
+759,2025-12-04,C0130,Consumer,Rasht,Furniture,Side Table,2,69.8,0.05,132.62,26.62,Bank Transfer
+160,2025-12-05,C0213,Small Business,Ahvaz,Office Supplies,Desk Lamp,1,25.63,0.0,25.63,6.63,Cash
+367,2025-12-05,C0216,Corporate,Isfahan,Office Supplies,Printer Paper,1,7.16,0.0,7.16,2.16,Credit Card
+370,2025-12-05,C0098,Corporate,Isfahan,Office Supplies,Notebook Pack,2,7.89,0.0,15.78,5.78,Digital Wallet
+638,2025-12-05,C0051,Consumer,Karaj,Technology,USB-C Hub,2,43.01,0.0,86.02,28.02,Bank Transfer
+664,2025-12-05,C0171,Corporate,Mashhad,Technology,USB-C Hub,5,41.87,0.0,209.35,64.35,Cash
+771,2025-12-05,C0219,Corporate,Ahvaz,Furniture,Filing Cabinet,1,117.22,0.1,105.5,15.5,Credit Card
+91,2025-12-06,C0030,Corporate,Qom,Office Supplies,Desk Lamp,1,26.07,0.0,26.07,7.07,Credit Card
+100,2025-12-06,C0152,Corporate,Tabriz,Furniture,Bookshelf,2,95.99,0.0,191.98,37.98,Digital Wallet
+213,2025-12-06,C0137,Corporate,Qom,Office Supplies,Desk Lamp,1,27.07,0.2,21.66,2.66,Bank Transfer
+635,2025-12-06,C0030,Small Business,Ahvaz,Furniture,Office Chair,3,133.83,0.1,361.34,52.34,Digital Wallet
+716,2025-12-07,C0137,Corporate,Tabriz,Office Supplies,Printer Paper,1,7.67,0.05,7.29,2.29,Credit Card
+989,2025-12-07,C0126,Consumer,Karaj,Office Supplies,Notebook Pack,3,8.27,0.15,21.09,6.09,Cash
+34,2025-12-08,C0068,Consumer,Tabriz,Furniture,Standing Desk,5,301.86,0.0,1509.3,319.3,Cash
+54,2025-12-08,C0157,Small Business,Qom,Furniture,Side Table,2,70.23,0.2,112.37,6.37,Digital Wallet
+372,2025-12-09,C0016,Corporate,Qom,Office Supplies,Desk Lamp,2,25.95,0.1,46.71,8.71,Digital Wallet
+421,2025-12-09,C0170,Small Business,Shiraz,Office Supplies,Desk Lamp,2,25.3,0.1,45.54,7.54,Digital Wallet
+449,2025-12-09,C0063,Consumer,Karaj,Office Supplies,Pen Set,1,5.43,0.1,4.89,1.39,Digital Wallet
+700,2025-12-09,C0007,Corporate,Yazd,Office Supplies,Desk Organizer,3,16.87,0.15,43.02,10.02,Cash
+688,2025-12-10,C0086,Small Business,Yazd,Technology,Wireless Mouse,2,17.97,0.0,35.94,13.94,Credit Card
+770,2025-12-10,C0048,Small Business,Yazd,Furniture,Bookshelf,4,96.23,0.1,346.43,38.43,Cash
+941,2025-12-10,C0063,Small Business,Yazd,Furniture,Filing Cabinet,2,112.06,0.0,224.12,44.12,Cash
+23,2025-12-11,C0028,Consumer,Shiraz,Furniture,Office Chair,1,133.01,0.1,119.71,16.71,Cash
+234,2025-12-11,C0149,Consumer,Tehran,Office Supplies,Notebook Pack,2,8.43,0.15,14.33,4.33,Digital Wallet
+292,2025-12-11,C0178,Consumer,Qom,Technology,Monitor,1,138.18,0.0,138.18,21.18,Digital Wallet
+708,2025-12-11,C0101,Consumer,Mashhad,Furniture,Office Chair,1,116.96,0.15,99.42,-3.58,Credit Card
+117,2025-12-12,C0157,Consumer,Tabriz,Technology,USB-C Hub,1,42.88,0.15,36.45,7.45,Digital Wallet
+510,2025-12-12,C0067,Consumer,Qom,Technology,USB-C Hub,2,43.27,0.0,86.54,28.54,Bank Transfer
+214,2025-12-13,C0143,Corporate,Shiraz,Furniture,Standing Desk,2,270.02,0.0,540.04,64.04,Bank Transfer
+836,2025-12-13,C0017,Corporate,Rasht,Technology,Keyboard,4,29.62,0.15,100.71,20.71,Credit Card
+43,2025-12-14,C0046,Small Business,Mashhad,Furniture,Standing Desk,5,306.51,0.0,1532.55,342.55,Credit Card
+658,2025-12-14,C0164,Corporate,Rasht,Office Supplies,Desk Lamp,3,29.3,0.0,87.9,30.9,Bank Transfer
+267,2025-12-15,C0183,Consumer,Tabriz,Furniture,Filing Cabinet,1,117.0,0.1,105.3,15.3,Bank Transfer
+397,2025-12-15,C0108,Corporate,Karaj,Office Supplies,Notebook Pack,1,8.61,0.0,8.61,3.61,Bank Transfer
+539,2025-12-15,C0141,Small Business,Tabriz,Office Supplies,Printer Paper,1,7.38,0.1,6.64,1.64,Bank Transfer
+39,2025-12-16,C0159,Small Business,Isfahan,Technology,Wireless Mouse,1,19.39,0.05,18.42,7.42,Cash
+9,2025-12-17,C0069,Consumer,Shiraz,Office Supplies,Notebook Pack,1,7.81,0.0,7.81,2.81,Bank Transfer
+703,2025-12-17,C0173,Corporate,Tehran,Technology,Headphones,4,53.93,0.1,194.15,34.15,Credit Card
+406,2025-12-18,C0043,Corporate,Tehran,Technology,Monitor,6,152.98,0.05,871.99,169.99,Cash
+436,2025-12-18,C0129,Small Business,Karaj,Office Supplies,Desk Organizer,6,17.48,0.1,94.39,28.39,Credit Card
+209,2025-12-19,C0199,Small Business,Ahvaz,Furniture,Office Chair,2,129.75,0.0,259.5,53.5,Cash
+309,2025-12-19,C0168,Corporate,Mashhad,Technology,Monitor,1,140.55,0.15,119.47,2.47,Credit Card
+542,2025-12-19,C0024,Small Business,Ahvaz,Furniture,Bookshelf,1,90.1,0.0,90.1,13.1,Bank Transfer
+608,2025-12-19,C0148,Small Business,Karaj,Furniture,Standing Desk,2,270.69,0.15,460.17,-15.83,Cash
+763,2025-12-19,C0010,Corporate,Rasht,Technology,Monitor,1,147.45,0.0,147.45,30.45,Digital Wallet
+317,2025-12-20,C0101,Corporate,Tehran,Technology,Monitor,1,138.32,0.1,124.49,7.49,Cash
+409,2025-12-20,C0180,Consumer,Shiraz,Technology,USB-C Hub,2,40.55,0.0,81.1,23.1,Credit Card
+702,2025-12-20,C0157,Small Business,Ahvaz,Office Supplies,Desk Lamp,1,26.15,0.05,24.84,5.84,Cash
+891,2025-12-20,C0017,Small Business,Tabriz,Office Supplies,Notebook Pack,5,7.83,0.0,39.15,14.15,Credit Card
+945,2025-12-20,C0197,Consumer,Shiraz,Office Supplies,Pen Set,1,5.3,0.0,5.3,1.8,Bank Transfer
+597,2025-12-21,C0116,Small Business,Karaj,Furniture,Bookshelf,3,89.35,0.0,268.05,37.05,Credit Card
+699,2025-12-21,C0166,Consumer,Tehran,Furniture,Filing Cabinet,5,107.06,0.0,535.3,85.3,Digital Wallet
+888,2025-12-21,C0001,Corporate,Tehran,Furniture,Side Table,2,70.13,0.1,126.23,20.23,Bank Transfer
+305,2025-12-22,C0199,Small Business,Tabriz,Office Supplies,Pen Set,5,4.6,0.0,23.0,5.5,Digital Wallet
+501,2025-12-22,C0199,Corporate,Yazd,Office Supplies,Pen Set,2,5.28,0.1,9.5,2.5,Credit Card
+788,2025-12-22,C0165,Consumer,Tehran,Technology,Wireless Mouse,2,18.0,0.0,36.0,14.0,Digital Wallet
+857,2025-12-22,C0095,Consumer,Ahvaz,Technology,USB-C Hub,2,45.78,0.1,82.4,24.4,Digital Wallet
+52,2025-12-23,C0193,Consumer,Rasht,Office Supplies,Pen Set,2,5.22,0.0,10.44,3.44,Cash
+536,2025-12-23,C0069,Corporate,Tabriz,Technology,Monitor,1,137.21,0.1,123.49,6.49,Digital Wallet
+673,2025-12-23,C0162,Corporate,Shiraz,Office Supplies,Notebook Pack,2,7.48,0.0,14.96,4.96,Cash
+1000,2025-12-23,C0149,Consumer,Mashhad,Technology,Headphones,2,61.21,0.0,122.42,42.42,Digital Wallet
+323,2025-12-24,C0117,Small Business,Ahvaz,Office Supplies,Desk Organizer,1,15.97,0.0,15.97,4.97,Credit Card
+352,2025-12-24,C0145,Consumer,Ahvaz,Office Supplies,Desk Lamp,1,29.45,0.1,26.5,7.5,Cash
+486,2025-12-24,C0098,Corporate,Ahvaz,Furniture,Filing Cabinet,1,116.83,0.15,99.31,9.31,Credit Card
+787,2025-12-24,C0141,Small Business,Karaj,Office Supplies,Desk Lamp,1,28.38,0.05,26.96,7.96,Digital Wallet
+938,2025-12-24,C0032,Corporate,Tabriz,Furniture,Bookshelf,4,100.43,0.05,381.63,73.63,Credit Card
+118,2025-12-25,C0127,Consumer,Tabriz,Office Supplies,Pen Set,1,4.63,0.0,4.63,1.13,Cash
+456,2025-12-25,C0078,Small Business,Tabriz,Technology,Monitor,5,153.94,0.0,769.7,184.7,Bank Transfer
+669,2025-12-25,C0126,Corporate,Rasht,Office Supplies,Pen Set,2,5.45,0.05,10.36,3.36,Digital Wallet
+847,2025-12-25,C0159,Small Business,Yazd,Office Supplies,Pen Set,2,5.16,0.15,8.77,1.77,Bank Transfer
+230,2025-12-26,C0196,Consumer,Ahvaz,Furniture,Filing Cabinet,3,117.55,0.15,299.75,29.75,Credit Card
+429,2025-12-26,C0191,Small Business,Rasht,Technology,Wireless Mouse,4,19.22,0.05,73.04,29.04,Credit Card
+435,2025-12-26,C0052,Consumer,Ahvaz,Furniture,Standing Desk,3,289.48,0.15,738.17,24.17,Bank Transfer
+311,2025-12-27,C0133,Small Business,Yazd,Technology,Wireless Mouse,1,18.48,0.0,18.48,7.48,Credit Card
+412,2025-12-27,C0177,Corporate,Karaj,Office Supplies,Printer Paper,1,7.59,0.05,7.21,2.21,Cash
+647,2025-12-27,C0187,Small Business,Qom,Office Supplies,Notebook Pack,2,7.48,0.2,11.97,1.97,Bank Transfer
+701,2025-12-27,C0163,Consumer,Tabriz,Office Supplies,Desk Organizer,3,16.06,0.0,48.18,15.18,Digital Wallet
+885,2025-12-27,C0102,Consumer,Mashhad,Furniture,Side Table,1,69.41,0.0,69.41,16.41,Digital Wallet
+975,2025-12-27,C0146,Consumer,Isfahan,Technology,Keyboard,2,30.07,0.05,57.13,17.13,Cash
+997,2025-12-27,C0054,Small Business,Shiraz,Office Supplies,Notebook Pack,6,8.55,0.0,51.3,21.3,Credit Card
+758,2025-12-28,C0196,Consumer,Ahvaz,Technology,USB-C Hub,2,41.58,0.0,83.16,25.16,Digital Wallet
+971,2025-12-28,C0213,Corporate,Mashhad,Furniture,Office Chair,2,124.52,0.0,249.04,43.04,Bank Transfer
+208,2025-12-29,C0029,Corporate,Ahvaz,Furniture,Standing Desk,2,274.29,0.0,548.58,72.58,Bank Transfer
+94,2025-12-30,C0216,Consumer,Yazd,Technology,Monitor,2,135.83,0.05,258.08,24.08,Credit Card
+801,2025-12-30,C0033,Corporate,Mashhad,Furniture,Filing Cabinet,1,102.07,0.0,102.07,12.07,Bank Transfer
+495,2025-12-31,C0113,Consumer,Shiraz,Furniture,Office Chair,5,129.41,0.15,549.99,34.99,Bank Transfer
+588,2025-12-31,C0042,Consumer,Shiraz,Furniture,Standing Desk,1,281.48,0.0,281.48,43.48,Credit Card

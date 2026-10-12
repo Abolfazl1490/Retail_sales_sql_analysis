@@ -1,0 +1,57 @@
+Business Insights Report — Retail Sales Analysis
+Project: Retail Sales Analysis
+Tool: MySQL
+Dataset: Synthetic Retail Sales Dataset
+Business Insight #1 — Best-Selling Product Category
+Finding: The Furniture category generated the highest total sales, amounting to 102,427.88.
+Interpretation: Furniture was the leading product category by revenue in this dataset. The business could investigate customer demand, product availability, and sales performance to identify opportunities for further growth.
+SQL metric: SUM(sales) grouped by product_category.
+
+
+Business Insight #2 — Most Profitable City
+Finding: Yazd generated the highest total profit, amounting to 2,962.15, with total sales of 20,975.15.
+Interpretation: Yazd was the most profitable city in the dataset. Comparing its sales volume and profit margin with those of other cities could help identify regional performance differences.
+SQL metric: SUM(profit) and SUM(sales) grouped by city.
+
+
+Business Insight #3 — Most Profitable Product
+Finding: Standing Desk, in the Furniture category, achieved the highest total profit of 4,306.47.
+Interpretation: Standing Desk generated the highest total profit among the products analyzed. Its performance could be examined further when evaluating product assortment and promotional priorities.
+SQL metric: SUM(profit) grouped by product_name.
+
+
+Business Insight #4 — Monthly Sales Trend
+Finding: Monthly sales fluctuated from January 2025 to May 2025. The highest monthly sales were 13,881.34 in March 2025, while the lowest were 8,325.43 in April 2025.
+Interpretation: Sales peaked in March and declined in April. This variation may be useful for sales planning and inventory management. Further data would be needed to determine whether this pattern reflects seasonality or a temporary fluctuation.
+SQL metrics: SUM(sales) and SUM(profit), grouped by month.
+
+Key Business Insights
+
+1. Discount and Sales Analysis
+
+The analysis suggests that higher discount levels are associated with increased sales volume and total sales revenue. However, the highest average sales were observed at a moderate discount level. This suggests that moderate discounts may provide a better balance between attracting customers and maintaining profitability.
+
+2. Top Profitable Products
+
+The product profitability analysis identified the following products and their total profits:
+
+- Standing Desk: 4,306.47
+- Monitor: 3,225.32
+- Desk Lamp: 1,015.60
+
+The Standing Desk generated the highest total profit among these three products.
+
+3. Most Profitable City
+
+Tabriz was identified as the most profitable city based on the query results.
+
+- Total Profit: 3,118.76
+- Total Sales: 19,085.26
+
+This indicates that Tabriz contributed significantly to the business's overall profitability.
+
+Conclusion
+
+This SQL project analyzed retail sales data to identify sales trends, evaluate product and city profitability, and investigate the relationship between discounts and sales performance. The analysis used aggregation, grouping, common table expressions (CTEs), window functions, and date-based analysis in MySQL.
+
+The findings can support data-driven decisions regarding discount strategies, product performance, and regional sales planning.
